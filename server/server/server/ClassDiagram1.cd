@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="server.ExtensionMethods" Collapsed="true">
+    <Position X="10.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExtensionMethods.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="server.ImageProcessor" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEYAAAAAAAYABAAAAAAAAAAAAAAQgIAAAAAAAAAAAA=</HashCode>
+      <FileName>ImageProcessor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="server.OnlineAnimation" Collapsed="true">
+    <Position X="2" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAEAIAAAAIABAAAASIAAAAAAEAAAEAAAEAAABAAA=</HashCode>
+      <FileName>OnlineAnimation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="server.OnlineCircle" Collapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAACADAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OnlineCircle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="server.OnlineClient" Collapsed="true">
+    <Position X="6.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAICAQAAAAAEAARBAAAAAAAAAACQAABACQAAA=</HashCode>
+      <FileName>OnlineClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="server.OnlineLivingObject" Collapsed="true">
+    <Position X="3.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAYMElAAgAIoQAAIBQJUEKEBihAAAwKASRBCFAACIwg=</HashCode>
+      <FileName>OnlineLivingObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="server.OnlineMap" Collapsed="true">
+    <Position X="10.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAGiFCQAACAAAAoAgACAAAYAAEIAIIIBwEAKgAgAA=</HashCode>
+      <FileName>OnlineMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="server.OnlineMob" Collapsed="true">
+    <Position X="3.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAAAAAQAAABAQAAIAAAAAEAIIQAAAAAAAAAAAEAA=</HashCode>
+      <FileName>OnlineMob.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="server.OnlineMobKeys" Collapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ADQCEBABAAAAEQAAQAgClAAAAIEKAACAIAQAAACIgEA=</HashCode>
+      <FileName>OnlineMobKeys.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="server.OnlinePickupItem" Collapsed="true">
+    <Position X="5.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAAAAAAAAYAAAAAAAAAIAAABAAQAEABABAAEAEAA=</HashCode>
+      <FileName>OnlinePickupItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="server.OnlinePlatform" Collapsed="true">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAABAAAAAAAQAQAAAAAAABAAAAABAQIAAAgAAA=</HashCode>
+      <FileName>OnlinePlatform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="server.OnlinePlayer" Collapsed="true">
+    <Position X="6.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RBQEFEEAAABAomDIBQIEYNAAABQFAQMXSQAAmjAJIAQ=</HashCode>
+      <FileName>OnlinePlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="server.OnlineSprite" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAAAAABAAAAAAAABAAIEAEAAAAgiEAAAQBBAAAAAA=</HashCode>
+      <FileName>OnlineSprite.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="server.Program" Collapsed="true">
+    <Position X="13.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="server.Server" Collapsed="true">
+    <Position X="10.25" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAAAQAAIIAAAgQgAIIAAAAAAAAAAAAABAQ=</HashCode>
+      <FileName>Server.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="server.Skill" Collapsed="true">
+    <Position X="1" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQQAgAAIQCAAIAAAIBAACAAAAABAAAAAAAAAAAABAAI=</HashCode>
+      <FileName>Skill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="server.SpritesDictionary" Collapsed="true">
+    <Position X="12" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>SpritesDictionary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="server.Sensor" Collapsed="true">
+    <Position X="13.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAIAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>OnlineLivingObject.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="server.MapRecord" Collapsed="true">
+    <Position X="10.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAg=</HashCode>
+      <FileName>OnlineMap.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="server.PathRecord" Collapsed="true">
+    <Position X="12" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAgAAgAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>OnlineMobKeys.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="server.IOnlineFocus" Collapsed="true">
+    <Position X="10.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAAAAAAAAAAAAAAAAAIAAEAAAAAgAAAAQAAAAAAAA=</HashCode>
+      <FileName>IOnlineFocus.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="server.Folders" Collapsed="true">
+    <Position X="10.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAIEAAAAAAAAAAAAAQAAEQAAAAAAA=</HashCode>
+      <FileName>OnlineAnimation.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="server.States" Collapsed="true">
+    <Position X="13.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgCIAAAACAAEgAAAAAAAAQAAAAAAAAAAiAAggCBEAA=</HashCode>
+      <FileName>OnlineAnimation.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="server.SoundEffects" Collapsed="true">
+    <Position X="12" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAACAAAAAAEAABAAACAAAAAAQECEAAAAAAACAABAA=</HashCode>
+      <FileName>OnlineMob.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="server.MonsterCreator" Collapsed="true">
+    <Position X="10.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>OnlineMob.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

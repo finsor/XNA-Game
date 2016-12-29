@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>maps\city\city_0.png</Source>
+      <Name>maps\city\city_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Documents\Visual Studio 2013\Projects\server\server\server\bin\x86\Debug\Content\maps\city\city_0.xnb</Output>
+      <Time>2016-04-07T22:45:12.7374624+03:00</Time>
+    </Item>
+    <Item>
+      <Source>maps\city\city_1.png</Source>
+      <Name>maps\city\city_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Documents\Visual Studio 2013\Projects\server\server\server\bin\x86\Debug\Content\maps\city\city_1.xnb</Output>
+      <Time>2016-04-07T22:45:12.7374624+03:00</Time>
+    </Item>
+    <Item>
+      <Source>teddy\alert.png</Source>
+      <Name>teddy\alert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Documents\Visual Studio 2013\Projects\server\server\server\bin\x86\Debug\Content\teddy\alert.xnb</Output>
+      <Time>2016-04-07T23:56:17.7739478+03:00</Time>
+    </Item>
+    <Item>
+      <Source>teddy\die.png</Source>
+      <Name>teddy\die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Documents\Visual Studio 2013\Projects\server\server\server\bin\x86\Debug\Content\teddy\die.xnb</Output>
+      <Time>2016-04-07T23:56:17.7739478+03:00</Time>
+    </Item>
+    <Item>
+      <Source>teddy\jump.png</Source>
+      <Name>teddy\jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Documents\Visual Studio 2013\Projects\server\server\server\bin\x86\Debug\Content\teddy\jump.xnb</Output>
+      <Time>2016-04-07T23:56:17.7895726+03:00</Time>
+    </Item>
+    <Item>
+      <Source>teddy\jumpmask.png</Source>
+      <Name>teddy\jumpmask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Documents\Visual Studio 2013\Projects\server\server\server\bin\x86\Debug\Content\teddy\jumpmask.xnb</Output>
+      <Time>2016-04-07T23:56:17.7895726+03:00</Time>
+    </Item>
+    <Item>
+      <Source>teddy\stand.png</Source>
+      <Name>teddy\stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Documents\Visual Studio 2013\Projects\server\server\server\bin\x86\Debug\Content\teddy\stand.xnb</Output>
+      <Time>2016-04-07T23:56:17.7895726+03:00</Time>
+    </Item>
+    <Item>
+      <Source>teddy\standmask.png</Source>
+      <Name>teddy\standmask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Documents\Visual Studio 2013\Projects\server\server\server\bin\x86\Debug\Content\teddy\standmask.xnb</Output>
+      <Time>2016-04-07T23:56:17.7895726+03:00</Time>
+    </Item>
+    <Item>
+      <Source>teddy\walk.png</Source>
+      <Name>teddy\walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Documents\Visual Studio 2013\Projects\server\server\server\bin\x86\Debug\Content\teddy\walk.xnb</Output>
+      <Time>2016-04-07T23:56:17.7895726+03:00</Time>
+    </Item>
+    <Item>
+      <Source>teddy\walkmask.png</Source>
+      <Name>teddy\walkmask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Documents\Visual Studio 2013\Projects\server\server\server\bin\x86\Debug\Content\teddy\walkmask.xnb</Output>
+      <Time>2016-04-07T23:56:17.7895726+03:00</Time>
+    </Item>
+    <Item>
+      <Source>worm\alert.png</Source>
+      <Name>worm\alert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Documents\Visual Studio 2013\Projects\server\server\server\bin\x86\Debug\Content\worm\alert.xnb</Output>
+      <Time>2016-04-07T23:56:17.6177088+03:00</Time>
+    </Item>
+    <Item>
+      <Source>worm\die.png</Source>
+      <Name>worm\die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Documents\Visual Studio 2013\Projects\server\server\server\bin\x86\Debug\Content\worm\die.xnb</Output>
+      <Time>2016-04-07T23:56:17.758377+03:00</Time>
+    </Item>
+    <Item>
+      <Source>worm\stand.png</Source>
+      <Name>worm\stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Documents\Visual Studio 2013\Projects\server\server\server\bin\x86\Debug\Content\worm\stand.xnb</Output>
+      <Time>2016-04-07T23:56:17.758377+03:00</Time>
+    </Item>
+    <Item>
+      <Source>worm\standmask.png</Source>
+      <Name>worm\standmask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Documents\Visual Studio 2013\Projects\server\server\server\bin\x86\Debug\Content\worm\standmask.xnb</Output>
+      <Time>2016-04-07T23:56:17.758377+03:00</Time>
+    </Item>
+    <Item>
+      <Source>worm\walk.png</Source>
+      <Name>worm\walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Documents\Visual Studio 2013\Projects\server\server\server\bin\x86\Debug\Content\worm\walk.xnb</Output>
+      <Time>2016-04-07T23:56:17.758377+03:00</Time>
+    </Item>
+    <Item>
+      <Source>worm\walkmask.png</Source>
+      <Name>worm\walkmask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Documents\Visual Studio 2013\Projects\server\server\server\bin\x86\Debug\Content\worm\walkmask.xnb</Output>
+      <Time>2016-04-07T23:56:17.758377+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{3F2BB755-6574-43DD-81A7-A92C282807B0}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\OR_FINS\Documents\Visual Studio 2013\Projects\server\server\serverContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\OR_FINS\Documents\Visual Studio 2013\Projects\server\server\server\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\OR_FINS\Documents\Visual Studio 2013\Projects\server\server\server\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\OR_FINS\Documents\Visual Studio 2013\Projects\server\server\server\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-03-25T14:11:49.2698705+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

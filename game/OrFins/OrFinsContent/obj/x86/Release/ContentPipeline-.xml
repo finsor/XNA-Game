@@ -1,0 +1,848 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>dino\walk.png</Source>
+      <Name>dino\walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\dino\walk.xnb</Output>
+      <Time>2016-01-04T23:28:12.005428+02:00</Time>
+    </Item>
+    <Item>
+      <Source>dino\stand.png</Source>
+      <Name>dino\stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\dino\stand.xnb</Output>
+      <Time>2016-01-04T23:17:09.4035683+02:00</Time>
+    </Item>
+    <Item>
+      <Source>dino\jump.png</Source>
+      <Name>dino\jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\dino\jump.xnb</Output>
+      <Time>2016-01-05T15:07:39.6775067+02:00</Time>
+    </Item>
+    <Item>
+      <Source>foreground\top.png</Source>
+      <Name>foreground\top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\foreground\top.xnb</Output>
+      <Time>2016-02-15T20:55:03.4433544+02:00</Time>
+    </Item>
+    <Item>
+      <Source>foreground\bottom.png</Source>
+      <Name>foreground\bottom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\foreground\bottom.xnb</Output>
+      <Time>2016-02-15T20:55:53.4136052+02:00</Time>
+    </Item>
+    <Item>
+      <Source>foreground\hover.png</Source>
+      <Name>foreground\hover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\foreground\hover.xnb</Output>
+      <Time>2016-02-15T20:55:33.9912672+02:00</Time>
+    </Item>
+    <Item>
+      <Source>dino\prone.png</Source>
+      <Name>dino\prone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\dino\prone.xnb</Output>
+      <Time>2016-01-05T17:17:03.4935184+02:00</Time>
+    </Item>
+    <Item>
+      <Source>player\walk.png</Source>
+      <Name>player\walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\player\walk.xnb</Output>
+      <Time>2016-01-07T15:40:08.2215791+02:00</Time>
+    </Item>
+    <Item>
+      <Source>player\stand.png</Source>
+      <Name>player\stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\player\stand.xnb</Output>
+      <Time>2016-01-07T15:38:32.7438603+02:00</Time>
+    </Item>
+    <Item>
+      <Source>player\jump.png</Source>
+      <Name>player\jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\player\jump.xnb</Output>
+      <Time>2016-01-07T15:20:18.6441196+02:00</Time>
+    </Item>
+    <Item>
+      <Source>player\prone.png</Source>
+      <Name>player\prone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\player\prone.xnb</Output>
+      <Time>2016-01-07T15:20:52.6395858+02:00</Time>
+    </Item>
+    <Item>
+      <Source>player\onRope.png</Source>
+      <Name>player\onRope</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\player\onRope.xnb</Output>
+      <Time>2016-01-13T10:17:02.8367199+02:00</Time>
+    </Item>
+    <Item>
+      <Source>rope\bottom.png</Source>
+      <Name>rope\bottom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\rope\bottom.xnb</Output>
+      <Time>2016-01-13T00:19:00.5226843+02:00</Time>
+    </Item>
+    <Item>
+      <Source>rope\hover.png</Source>
+      <Name>rope\hover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\rope\hover.xnb</Output>
+      <Time>2016-02-02T16:56:59.6022419+02:00</Time>
+    </Item>
+    <Item>
+      <Source>rope\top.png</Source>
+      <Name>rope\top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\rope\top.xnb</Output>
+      <Time>2016-01-13T00:16:48.3034752+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sword\jump.png</Source>
+      <Name>sword\jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\sword\jump.xnb</Output>
+      <Time>2016-02-12T12:26:50.7900465+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sword\stand.png</Source>
+      <Name>sword\stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\sword\stand.xnb</Output>
+      <Time>2016-02-12T12:30:34.9694356+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sword\prone.png</Source>
+      <Name>sword\prone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\sword\prone.xnb</Output>
+      <Time>2016-02-12T12:27:31.572996+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sword\walk.png</Source>
+      <Name>sword\walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\sword\walk.xnb</Output>
+      <Time>2016-02-12T12:36:48.4674484+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sword\swing1.png</Source>
+      <Name>sword\swing1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\sword\swing1.xnb</Output>
+      <Time>2016-02-12T12:32:37.2794441+02:00</Time>
+    </Item>
+    <Item>
+      <Source>player\stab1.png</Source>
+      <Name>player\stab1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\player\stab1.xnb</Output>
+      <Time>2016-02-12T15:12:25.0506077+02:00</Time>
+    </Item>
+    <Item>
+      <Source>hud\hpBar.png</Source>
+      <Name>hud\hpBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\hud\hpBar.xnb</Output>
+      <Time>2016-01-23T20:59:03.8343772+02:00</Time>
+    </Item>
+    <Item>
+      <Source>hud\mpBar.png</Source>
+      <Name>hud\mpBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\hud\mpBar.xnb</Output>
+      <Time>2016-01-23T21:01:15.4135971+02:00</Time>
+    </Item>
+    <Item>
+      <Source>hud\xpBar.png</Source>
+      <Name>hud\xpBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\hud\xpBar.xnb</Output>
+      <Time>2016-01-23T21:00:15.051826+02:00</Time>
+    </Item>
+    <Item>
+      <Source>teddy\stand.png</Source>
+      <Name>teddy\stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\teddy\stand.xnb</Output>
+      <Time>2016-01-21T23:35:29.7011239+02:00</Time>
+    </Item>
+    <Item>
+      <Source>teddy\walk.png</Source>
+      <Name>teddy\walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\teddy\walk.xnb</Output>
+      <Time>2016-01-21T23:39:17.7771331+02:00</Time>
+    </Item>
+    <Item>
+      <Source>teddy\jump.png</Source>
+      <Name>teddy\jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\teddy\jump.xnb</Output>
+      <Time>2016-01-21T23:41:48.3610577+02:00</Time>
+    </Item>
+    <Item>
+      <Source>hud\levels.png</Source>
+      <Name>hud\levels</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\hud\levels.xnb</Output>
+      <Time>2016-01-23T19:02:20.8775534+02:00</Time>
+    </Item>
+    <Item>
+      <Source>hud\hud.png</Source>
+      <Name>hud\hud</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\hud\hud.xnb</Output>
+      <Time>2016-02-28T19:52:02.8074823+02:00</Time>
+    </Item>
+    <Item>
+      <Source>player\stab2.png</Source>
+      <Name>player\stab2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\player\stab2.xnb</Output>
+      <Time>2016-02-12T15:19:46.4703233+02:00</Time>
+    </Item>
+    <Item>
+      <Source>player\swing2.png</Source>
+      <Name>player\swing2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\player\swing2.xnb</Output>
+      <Time>2016-02-12T15:50:59.4056042+02:00</Time>
+    </Item>
+    <Item>
+      <Source>player\swing3.png</Source>
+      <Name>player\swing3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\player\swing3.xnb</Output>
+      <Time>2016-02-12T15:56:03.9518756+02:00</Time>
+    </Item>
+    <Item>
+      <Source>npc\marco.png</Source>
+      <Name>npc\marco</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\npc\marco.xnb</Output>
+      <Time>2016-01-28T14:38:22.2070023+02:00</Time>
+    </Item>
+    <Item>
+      <Source>npc\Chiang.png</Source>
+      <Name>npc\Chiang</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\npc\Chiang.xnb</Output>
+      <Time>2016-01-28T15:53:17.9572307+02:00</Time>
+    </Item>
+    <Item>
+      <Source>cityforeground\bottom.png</Source>
+      <Name>cityforeground\bottom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\cityforeground\bottom.xnb</Output>
+      <Time>2016-02-02T14:28:05.5249596+02:00</Time>
+    </Item>
+    <Item>
+      <Source>cityforeground\top.png</Source>
+      <Name>cityforeground\top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\cityforeground\top.xnb</Output>
+      <Time>2016-02-02T14:27:20.4940735+02:00</Time>
+    </Item>
+    <Item>
+      <Source>cityforeground\hover.png</Source>
+      <Name>cityforeground\hover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\cityforeground\hover.xnb</Output>
+      <Time>2016-02-02T14:23:54.8663422+02:00</Time>
+    </Item>
+    <Item>
+      <Source>player\stab3.png</Source>
+      <Name>player\stab3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\player\stab3.xnb</Output>
+      <Time>2016-02-12T15:25:10.6641819+02:00</Time>
+    </Item>
+    <Item>
+      <Source>player\alert.png</Source>
+      <Name>player\alert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\player\alert.xnb</Output>
+      <Time>2016-02-12T14:47:23.6845659+02:00</Time>
+    </Item>
+    <Item>
+      <Source>player\swing1.png</Source>
+      <Name>player\swing1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\player\swing1.xnb</Output>
+      <Time>2016-02-12T15:45:24.8956386+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sword\alert.png</Source>
+      <Name>sword\alert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\sword\alert.xnb</Output>
+      <Time>2016-02-12T16:39:51.6795943+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sword\stab2.png</Source>
+      <Name>sword\stab2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\sword\stab2.xnb</Output>
+      <Time>2016-02-12T12:28:29.2632398+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sword\stab3.png</Source>
+      <Name>sword\stab3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\sword\stab3.xnb</Output>
+      <Time>2016-02-12T12:29:23.7593431+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sword\swing2.png</Source>
+      <Name>sword\swing2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\sword\swing2.xnb</Output>
+      <Time>2016-02-12T12:34:28.7845756+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sword\swing3.png</Source>
+      <Name>sword\swing3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\sword\swing3.xnb</Output>
+      <Time>2016-02-12T12:35:13.8407616+02:00</Time>
+    </Item>
+    <Item>
+      <Source>dino\alert.png</Source>
+      <Name>dino\alert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\dino\alert.xnb</Output>
+      <Time>2016-02-07T11:32:32.9468191+02:00</Time>
+    </Item>
+    <Item>
+      <Source>teddy\alert.png</Source>
+      <Name>teddy\alert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\teddy\alert.xnb</Output>
+      <Time>2016-02-07T11:34:37.0718483+02:00</Time>
+    </Item>
+    <Item>
+      <Source>portal\stand.png</Source>
+      <Name>portal\stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\portal\stand.xnb</Output>
+      <Time>2016-02-08T20:35:30.9195174+02:00</Time>
+    </Item>
+    <Item>
+      <Source>greenBackGround\middle.png</Source>
+      <Name>greenBackGround\middle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\greenBackGround\middle.xnb</Output>
+      <Time>2016-02-13T16:19:30.3603553+02:00</Time>
+    </Item>
+    <Item>
+      <Source>greenBackGround\back.png</Source>
+      <Name>greenBackGround\back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\greenBackGround\back.xnb</Output>
+      <Time>2016-02-09T16:32:46.2987789+02:00</Time>
+    </Item>
+    <Item>
+      <Source>greenBackGround\front.png</Source>
+      <Name>greenBackGround\front</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\greenBackGround\front.xnb</Output>
+      <Time>2016-02-13T16:12:23.0037083+02:00</Time>
+    </Item>
+    <Item>
+      <Source>teddy\die.png</Source>
+      <Name>teddy\die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\teddy\die.xnb</Output>
+      <Time>2016-02-09T19:45:24.9370249+02:00</Time>
+    </Item>
+    <Item>
+      <Source>dino\die.png</Source>
+      <Name>dino\die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\dino\die.xnb</Output>
+      <Time>2016-02-09T19:46:28.4012671+02:00</Time>
+    </Item>
+    <Item>
+      <Source>pickup\money.png</Source>
+      <Name>pickup\money</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\pickup\money.xnb</Output>
+      <Time>2016-02-09T21:05:27.7282742+02:00</Time>
+    </Item>
+    <Item>
+      <Source>cityBackGround\back.png</Source>
+      <Name>cityBackGround\back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\cityBackGround\back.xnb</Output>
+      <Time>2016-02-10T16:21:52.7597623+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sword\stab1.png</Source>
+      <Name>sword\stab1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\sword\stab1.xnb</Output>
+      <Time>2016-02-12T12:22:14.1753481+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sword\shop_item.png</Source>
+      <Name>sword\shop_item</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\sword\shop_item.xnb</Output>
+      <Time>2016-02-10T19:33:58.9045736+02:00</Time>
+    </Item>
+    <Item>
+      <Source>shop\shopTexture.png</Source>
+      <Name>shop\shopTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\shop\shopTexture.xnb</Output>
+      <Time>2016-02-10T22:09:14.1233072+02:00</Time>
+    </Item>
+    <Item>
+      <Source>rectangleTexture.png</Source>
+      <Name>rectangleTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\rectangleTexture.xnb</Output>
+      <Time>2016-02-12T13:59:53.6307354+02:00</Time>
+    </Item>
+    <Item>
+      <Source>shirt\alert.png</Source>
+      <Name>shirt\alert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\shirt\alert.xnb</Output>
+      <Time>2016-02-12T15:10:29.9140473+02:00</Time>
+    </Item>
+    <Item>
+      <Source>shirt\stab1.png</Source>
+      <Name>shirt\stab1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\shirt\stab1.xnb</Output>
+      <Time>2016-02-12T15:19:01.1789829+02:00</Time>
+    </Item>
+    <Item>
+      <Source>shirt\stab2.png</Source>
+      <Name>shirt\stab2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\shirt\stab2.xnb</Output>
+      <Time>2016-02-12T15:23:28.923596+02:00</Time>
+    </Item>
+    <Item>
+      <Source>shirt\swing1.png</Source>
+      <Name>shirt\swing1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\shirt\swing1.xnb</Output>
+      <Time>2016-02-12T15:50:12.5820662+02:00</Time>
+    </Item>
+    <Item>
+      <Source>shirt\swing2.png</Source>
+      <Name>shirt\swing2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\shirt\swing2.xnb</Output>
+      <Time>2016-02-12T15:55:21.4545718+02:00</Time>
+    </Item>
+    <Item>
+      <Source>shirt\swing3.png</Source>
+      <Name>shirt\swing3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\shirt\swing3.xnb</Output>
+      <Time>2016-02-12T15:59:59.9628719+02:00</Time>
+    </Item>
+    <Item>
+      <Source>shirt\stab3.png</Source>
+      <Name>shirt\stab3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\shirt\stab3.xnb</Output>
+      <Time>2016-02-12T16:05:05.7455325+02:00</Time>
+    </Item>
+    <Item>
+      <Source>shirt\onRope.png</Source>
+      <Name>shirt\onRope</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\shirt\onRope.xnb</Output>
+      <Time>2016-02-12T16:14:57.8282343+02:00</Time>
+    </Item>
+    <Item>
+      <Source>shirt\jump.png</Source>
+      <Name>shirt\jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\shirt\jump.xnb</Output>
+      <Time>2016-02-12T16:17:10.6347235+02:00</Time>
+    </Item>
+    <Item>
+      <Source>shirt\prone.png</Source>
+      <Name>shirt\prone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\shirt\prone.xnb</Output>
+      <Time>2016-02-12T16:18:30.4298099+02:00</Time>
+    </Item>
+    <Item>
+      <Source>shirt\stand.png</Source>
+      <Name>shirt\stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\shirt\stand.xnb</Output>
+      <Time>2016-02-12T16:21:08.4109421+02:00</Time>
+    </Item>
+    <Item>
+      <Source>shirt\walk.png</Source>
+      <Name>shirt\walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\shirt\walk.xnb</Output>
+      <Time>2016-02-12T16:22:35.2117125+02:00</Time>
+    </Item>
+    <Item>
+      <Source>sword\onRope.png</Source>
+      <Name>sword\onRope</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\sword\onRope.xnb</Output>
+      <Time>2016-02-12T16:48:25.5410447+02:00</Time>
+    </Item>
+    <Item>
+      <Source>worm\walk.png</Source>
+      <Name>worm\walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\worm\walk.xnb</Output>
+      <Time>2016-02-13T15:51:08.0686516+02:00</Time>
+    </Item>
+    <Item>
+      <Source>worm\alert.png</Source>
+      <Name>worm\alert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\worm\alert.xnb</Output>
+      <Time>2016-02-13T15:51:50.9548848+02:00</Time>
+    </Item>
+    <Item>
+      <Source>worm\stand.png</Source>
+      <Name>worm\stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\worm\stand.xnb</Output>
+      <Time>2016-02-13T15:53:25.4327789+02:00</Time>
+    </Item>
+    <Item>
+      <Source>worm\die.png</Source>
+      <Name>worm\die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\worm\die.xnb</Output>
+      <Time>2016-02-13T15:55:53.1170697+02:00</Time>
+    </Item>
+    <Item>
+      <Source>regularButton\clicked.png</Source>
+      <Name>regularButton\clicked</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\regularButton\clicked.xnb</Output>
+      <Time>2016-03-02T11:27:39.0595155+02:00</Time>
+    </Item>
+    <Item>
+      <Source>regularButton\buttonHover.png</Source>
+      <Name>regularButton\buttonHover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\regularButton\buttonHover.xnb</Output>
+      <Time>2016-03-02T11:27:29.6872186+02:00</Time>
+    </Item>
+    <Item>
+      <Source>regularButton\notClicked.png</Source>
+      <Name>regularButton\notClicked</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\regularButton\notClicked.xnb</Output>
+      <Time>2016-03-02T11:27:49.4535078+02:00</Time>
+    </Item>
+    <Item>
+      <Source>strawpile\bottom.png</Source>
+      <Name>strawpile\bottom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\strawpile\bottom.xnb</Output>
+      <Time>2016-02-15T21:38:46.0580788+02:00</Time>
+    </Item>
+    <Item>
+      <Source>strawpile\top.png</Source>
+      <Name>strawpile\top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\strawpile\top.xnb</Output>
+      <Time>2016-02-15T21:38:48.0600246+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Font.spritefont</Source>
+      <Name>Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\Font.xnb</Output>
+      <Time>2016-01-23T21:28:33.1415341+02:00</Time>
+    </Item>
+    <Item>
+      <Source>player\die.png</Source>
+      <Name>player\die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\player\die.xnb</Output>
+      <Time>2016-03-01T22:54:00.6876053+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Interaction\dialogBox.png</Source>
+      <Name>Interaction\dialogBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\Interaction\dialogBox.xnb</Output>
+      <Time>2016-03-02T17:05:43.347665+02:00</Time>
+    </Item>
+    <Item>
+      <Source>mobHit.wav</Source>
+      <Name>mobHit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\mobHit.xnb</Output>
+      <Time>2016-03-02T16:21:33.1013294+02:00</Time>
+    </Item>
+    <Item>
+      <Source>attack.wav</Source>
+      <Name>attack</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\attack.xnb</Output>
+      <Time>2016-03-02T16:21:37.6799947+02:00</Time>
+    </Item>
+    <Item>
+      <Source>mobDie.wav</Source>
+      <Name>mobDie</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\mobDie.xnb</Output>
+      <Time>2016-03-02T16:21:40.2299992+02:00</Time>
+    </Item>
+    <Item>
+      <Source>bgm.wav</Source>
+      <Name>bgm</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\bgm.xnb</Output>
+      <Time>2016-03-02T16:24:41.334737+02:00</Time>
+    </Item>
+    <Item>
+      <Source>teleport.wav</Source>
+      <Name>teleport</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\teleport.xnb</Output>
+      <Time>2016-03-02T16:41:36.7029667+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID Null="true" />
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFinsContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFinsContent\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-10-19T12:26:15.8538671+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

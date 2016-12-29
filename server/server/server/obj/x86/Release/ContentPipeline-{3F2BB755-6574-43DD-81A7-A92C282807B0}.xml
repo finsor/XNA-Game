@@ -1,0 +1,497 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>teddy\alert.png</Source>
+      <Name>teddy\alert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\teddy\alert.xnb</Output>
+      <Time>2016-04-07T23:56:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>teddy\die.png</Source>
+      <Name>teddy\die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\teddy\die.xnb</Output>
+      <Time>2016-04-07T23:56:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>teddy\jump.png</Source>
+      <Name>teddy\jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\teddy\jump.xnb</Output>
+      <Time>2016-04-07T23:56:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>teddy\jumpmask.png</Source>
+      <Name>teddy\jumpmask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\teddy\jumpmask.xnb</Output>
+      <Time>2016-04-07T23:56:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>teddy\stand.png</Source>
+      <Name>teddy\stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\teddy\stand.xnb</Output>
+      <Time>2016-04-07T23:56:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>teddy\standmask.png</Source>
+      <Name>teddy\standmask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\teddy\standmask.xnb</Output>
+      <Time>2016-04-07T23:56:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>teddy\walk.png</Source>
+      <Name>teddy\walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\teddy\walk.xnb</Output>
+      <Time>2016-04-07T23:56:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>teddy\walkmask.png</Source>
+      <Name>teddy\walkmask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\teddy\walkmask.xnb</Output>
+      <Time>2016-04-07T23:56:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>worm\alert.png</Source>
+      <Name>worm\alert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\worm\alert.xnb</Output>
+      <Time>2016-04-07T23:56:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>worm\die.png</Source>
+      <Name>worm\die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\worm\die.xnb</Output>
+      <Time>2016-04-07T23:56:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>worm\stand.png</Source>
+      <Name>worm\stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\worm\stand.xnb</Output>
+      <Time>2016-04-07T23:56:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>worm\standmask.png</Source>
+      <Name>worm\standmask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\worm\standmask.xnb</Output>
+      <Time>2016-04-07T23:56:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>worm\walk.png</Source>
+      <Name>worm\walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\worm\walk.xnb</Output>
+      <Time>2016-04-07T23:56:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>worm\walkmask.png</Source>
+      <Name>worm\walkmask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\worm\walkmask.xnb</Output>
+      <Time>2016-04-07T23:56:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>pickup\money.png</Source>
+      <Name>pickup\money</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\pickup\money.xnb</Output>
+      <Time>2016-04-08T20:42:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>monkey\alert.png</Source>
+      <Name>monkey\alert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\monkey\alert.xnb</Output>
+      <Time>2016-04-20T15:07:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>monkey\die.png</Source>
+      <Name>monkey\die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\monkey\die.xnb</Output>
+      <Time>2016-04-20T15:07:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>monkey\jump.png</Source>
+      <Name>monkey\jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\monkey\jump.xnb</Output>
+      <Time>2016-04-20T15:07:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>monkey\jumpmask.png</Source>
+      <Name>monkey\jumpmask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\monkey\jumpmask.xnb</Output>
+      <Time>2016-04-20T15:07:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>monkey\mobSkill.png</Source>
+      <Name>monkey\mobSkill</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\monkey\mobSkill.xnb</Output>
+      <Time>2016-04-20T15:07:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>monkey\mobSkillmask.png</Source>
+      <Name>monkey\mobSkillmask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\monkey\mobSkillmask.xnb</Output>
+      <Time>2016-04-20T15:07:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>monkey\stand.png</Source>
+      <Name>monkey\stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\monkey\stand.xnb</Output>
+      <Time>2016-04-20T15:07:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>monkey\standmask.png</Source>
+      <Name>monkey\standmask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\monkey\standmask.xnb</Output>
+      <Time>2016-04-20T15:07:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>monkey\walk.png</Source>
+      <Name>monkey\walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\monkey\walk.xnb</Output>
+      <Time>2016-04-20T15:07:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>monkey\walkmask.png</Source>
+      <Name>monkey\walkmask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\monkey\walkmask.xnb</Output>
+      <Time>2016-04-20T15:07:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Banana\hit.png</Source>
+      <Name>Banana\hit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\Banana\hit.xnb</Output>
+      <Time>2016-04-20T15:40:00+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Banana\launched.png</Source>
+      <Name>Banana\launched</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\Banana\launched.xnb</Output>
+      <Time>2016-04-20T15:40:00+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Banana\launchedmask.png</Source>
+      <Name>Banana\launchedmask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\Banana\launchedmask.xnb</Output>
+      <Time>2016-04-20T15:40:00+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Drake\alert.png</Source>
+      <Name>Drake\alert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\Drake\alert.xnb</Output>
+      <Time>2016-04-23T20:17:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Drake\die.png</Source>
+      <Name>Drake\die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\Drake\die.xnb</Output>
+      <Time>2016-04-23T20:17:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Drake\mobSkill.png</Source>
+      <Name>Drake\mobSkill</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\Drake\mobSkill.xnb</Output>
+      <Time>2016-04-23T20:17:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Drake\mobSkillmask.png</Source>
+      <Name>Drake\mobSkillmask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\Drake\mobSkillmask.xnb</Output>
+      <Time>2016-04-23T20:17:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Drake\stand.png</Source>
+      <Name>Drake\stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\Drake\stand.xnb</Output>
+      <Time>2016-04-23T20:17:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Drake\standmask.png</Source>
+      <Name>Drake\standmask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\Drake\standmask.xnb</Output>
+      <Time>2016-04-23T20:17:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Drake\walk.png</Source>
+      <Name>Drake\walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\Drake\walk.xnb</Output>
+      <Time>2016-04-23T20:17:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Drake\walkmask.png</Source>
+      <Name>Drake\walkmask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\Drake\walkmask.xnb</Output>
+      <Time>2016-04-23T20:17:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fireball\hit.png</Source>
+      <Name>Fireball\hit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\Fireball\hit.xnb</Output>
+      <Time>2016-04-23T20:17:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fireball\launched.png</Source>
+      <Name>Fireball\launched</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\Fireball\launched.xnb</Output>
+      <Time>2016-04-23T20:17:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fireball\launchedmask.png</Source>
+      <Name>Fireball\launchedmask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\Fireball\launchedmask.xnb</Output>
+      <Time>2016-04-23T20:17:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>maps\city\city_0.png</Source>
+      <Name>maps\city\city_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\maps\city\city_0.xnb</Output>
+      <Time>2016-04-23T20:19:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>maps\city\city_1.png</Source>
+      <Name>maps\city\city_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\maps\city\city_1.xnb</Output>
+      <Time>2016-04-23T20:19:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>maps\forest\forest_0.png</Source>
+      <Name>maps\forest\forest_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\maps\forest\forest_0.xnb</Output>
+      <Time>2016-04-23T20:19:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>maps\forest\forest_1.png</Source>
+      <Name>maps\forest\forest_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\maps\forest\forest_1.xnb</Output>
+      <Time>2016-04-23T20:19:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>maps\lava\lava_0.png</Source>
+      <Name>maps\lava\lava_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\maps\lava\lava_0.xnb</Output>
+      <Time>2016-04-23T20:19:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>maps\lava\lava_1.png</Source>
+      <Name>maps\lava\lava_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\maps\lava\lava_1.xnb</Output>
+      <Time>2016-04-23T20:19:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>maps\lava\lava_2.png</Source>
+      <Name>maps\lava\lava_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\maps\lava\lava_2.xnb</Output>
+      <Time>2016-04-23T20:19:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>maps\map1\platform1.png</Source>
+      <Name>maps\map1\platform1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\maps\map1\platform1.xnb</Output>
+      <Time>2016-04-23T20:19:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>maps\map1\platform2.png</Source>
+      <Name>maps\map1\platform2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\maps\map1\platform2.xnb</Output>
+      <Time>2016-04-23T20:19:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>maps\map1\platform3.png</Source>
+      <Name>maps\map1\platform3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\maps\map1\platform3.xnb</Output>
+      <Time>2016-04-23T20:19:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>maps\map1\platform4.png</Source>
+      <Name>maps\map1\platform4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\maps\map1\platform4.xnb</Output>
+      <Time>2016-04-23T20:19:36+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{3F2BB755-6574-43DD-81A7-A92C282807B0}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\serverContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-03-25T14:11:49.2698705+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

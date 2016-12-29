@@ -1,0 +1,15 @@
+C:\Users\אור\Documents\Visual Studio 2013\Projects\לפני THEDICT\OrFins\OrFinsContent\obj\x86\Debug\OrFinsContent.contentprojResolveAssemblyReference.cache
+C:\Users\אור\Documents\Visual Studio 2013\Projects\7.1.2016\OrFins\OrFinsContent\obj\x86\Debug\OrFinsContent.contentprojResolveAssemblyReference.cache
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins - עותק\OrFins\OrFinsContent\obj\x86\Debug\OrFinsContent.contentprojResolveAssemblyReference.cache
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface\OrFins\OrFinsContent\obj\x86\Debug\OrFinsContent.contentprojResolveAssemblyReference.cache
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface and mob class\OrFins\OrFinsContent\obj\x86\Debug\OrFinsContent.contentprojResolveAssemblyReference.cache
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016a player_touches_rope\OrFins\OrFinsContent\obj\x86\Debug\OrFinsContent.contentprojResolveAssemblyReference.cache
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016b\OrFins\OrFinsContent\obj\x86\Debug\OrFinsContent.contentprojResolveAssemblyReference.cache
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins\OrFins\OrFinsContent\obj\x86\Debug\OrFinsContent.contentprojResolveAssemblyReference.cache
+C:\Users\אור\Desktop\OrFins\OrFins\OrFinsContent\obj\x86\Debug\OrFinsContent.contentprojResolveAssemblyReference.cache
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFinsContent\obj\x86\Debug\OrFinsContent.contentprojResolveAssemblyReference.cache
+C:\Users\אור\Desktop\אחרון\OrFins\OrFinsContent\obj\x86\Debug\OrFinsContent.contentprojResolveAssemblyReference.cache
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFinsContent\obj\x86\Debug\OrFinsContent.contentprojResolveAssemblyReference.cache
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFinsContent\obj\x86\Debug\OrFinsContent.contentprojResolveAssemblyReference.cache
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFinsContent\obj\x86\Debug\OrFinsContent.contentprojResolveAssemblyReference.cache
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFinsContent\obj\x86\Debug\OrFinsContent.contentprojResolveAssemblyReference.cache

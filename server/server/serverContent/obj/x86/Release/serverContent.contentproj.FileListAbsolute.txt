@@ -1,0 +1,4 @@
+C:\Users\OR_FINS\Desktop\server\server\serverContent\obj\x86\Release\serverContent.contentprojResolveAssemblyReference.cache
+C:\Users\Lenovo1\Desktop\server\server\serverContent\obj\x86\Release\serverContent.contentprojResolveAssemblyReference.cache
+C:\Users\OR_FINS\Desktop\סופי\server\server\serverContent\obj\x86\Release\serverContent.contentprojResolveAssemblyReference.cache
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\serverContent\obj\x86\Release\serverContent.contentprojResolveAssemblyReference.cache

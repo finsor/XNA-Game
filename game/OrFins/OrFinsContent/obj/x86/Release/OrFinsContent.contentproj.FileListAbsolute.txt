@@ -1,0 +1,3 @@
+C:\Users\Lenovo1\Desktop\game\OrFins\OrFinsContent\obj\x86\Release\OrFinsContent.contentprojResolveAssemblyReference.cache
+C:\Users\Lenovo1\Desktop\אור\15.5.16\game\OrFins\OrFinsContent\obj\x86\Release\OrFinsContent.contentprojResolveAssemblyReference.cache
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFinsContent\obj\x86\Release\OrFinsContent.contentprojResolveAssemblyReference.cache

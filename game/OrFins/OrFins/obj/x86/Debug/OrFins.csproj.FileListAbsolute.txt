@@ -1,0 +1,881 @@
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins\OrFins\OrFins\bin\x86\Debug\OrFins.exe
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins\OrFins\OrFins\bin\x86\Debug\OrFins.pdb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins\OrFins\OrFins\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins\OrFins\OrFins\obj\x86\Debug\OrFins.exe
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins\OrFins\OrFins\obj\x86\Debug\OrFins.pdb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins\OrFins\OrFins\bin\x86\Debug\Content\dino\walk.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins\OrFins\OrFins\bin\x86\Debug\Content\dino\stand.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins\OrFins\OrFins\bin\x86\Debug\Content\dino\jump.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins\OrFins\OrFins\bin\x86\Debug\Content\foreground\top.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins\OrFins\OrFins\bin\x86\Debug\Content\foreground\bottom.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins\OrFins\OrFins\bin\x86\Debug\Content\foreground\hover.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\לפני THEDICT\OrFins\OrFins\obj\x86\Debug\OrFins.csprojResolveAssemblyReference.cache
+C:\Users\אור\Documents\Visual Studio 2013\Projects\לפני THEDICT\OrFins\OrFins\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\אור\Documents\Visual Studio 2013\Projects\לפני THEDICT\OrFins\OrFins\obj\x86\Debug\OrFins.exe
+C:\Users\אור\Documents\Visual Studio 2013\Projects\לפני THEDICT\OrFins\OrFins\bin\x86\Debug\Content\dino\walk.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\לפני THEDICT\OrFins\OrFins\bin\x86\Debug\Content\dino\stand.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\לפני THEDICT\OrFins\OrFins\bin\x86\Debug\Content\dino\jump.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\לפני THEDICT\OrFins\OrFins\bin\x86\Debug\Content\foreground\top.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\לפני THEDICT\OrFins\OrFins\bin\x86\Debug\Content\foreground\bottom.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\לפני THEDICT\OrFins\OrFins\bin\x86\Debug\Content\foreground\hover.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\לפני THEDICT\OrFins\OrFins\bin\x86\Debug\OrFins.exe
+C:\Users\אור\Documents\Visual Studio 2013\Projects\לפני THEDICT\OrFins\OrFins\bin\x86\Debug\OrFins.pdb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\לפני THEDICT\OrFins\OrFins\obj\x86\Debug\OrFins.pdb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\לפני THEDICT\OrFins\OrFins\bin\x86\Debug\Content\player\walk.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\לפני THEDICT\OrFins\OrFins\bin\x86\Debug\Content\player\stand.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\לפני THEDICT\OrFins\OrFins\bin\x86\Debug\Content\player\jump.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\לפני THEDICT\OrFins\OrFins\bin\x86\Debug\Content\dino\prone.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\לפני THEDICT\OrFins\OrFins\bin\x86\Debug\Content\player\prone.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\לפני THEDICT\OrFins\OrFins\bin\x86\Debug\Content\shirt\stand.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\לפני THEDICT\OrFins\OrFins\bin\x86\Debug\Content\shirt\walk.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\7.1.2016\OrFins\OrFins\bin\x86\Debug\Content\dino\walk.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\7.1.2016\OrFins\OrFins\bin\x86\Debug\Content\dino\stand.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\7.1.2016\OrFins\OrFins\bin\x86\Debug\Content\dino\jump.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\7.1.2016\OrFins\OrFins\bin\x86\Debug\Content\foreground\top.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\7.1.2016\OrFins\OrFins\bin\x86\Debug\Content\foreground\bottom.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\7.1.2016\OrFins\OrFins\bin\x86\Debug\Content\foreground\hover.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\7.1.2016\OrFins\OrFins\bin\x86\Debug\Content\dino\prone.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\7.1.2016\OrFins\OrFins\bin\x86\Debug\Content\player\walk.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\7.1.2016\OrFins\OrFins\bin\x86\Debug\Content\player\stand.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\7.1.2016\OrFins\OrFins\bin\x86\Debug\Content\player\jump.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\7.1.2016\OrFins\OrFins\bin\x86\Debug\Content\player\prone.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\7.1.2016\OrFins\OrFins\bin\x86\Debug\Content\shirt\stand.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\7.1.2016\OrFins\OrFins\bin\x86\Debug\Content\shirt\walk.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\7.1.2016\OrFins\OrFins\bin\x86\Debug\OrFins.exe
+C:\Users\אור\Documents\Visual Studio 2013\Projects\7.1.2016\OrFins\OrFins\bin\x86\Debug\OrFins.pdb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\7.1.2016\OrFins\OrFins\obj\x86\Debug\OrFins.csprojResolveAssemblyReference.cache
+C:\Users\אור\Documents\Visual Studio 2013\Projects\7.1.2016\OrFins\OrFins\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\אור\Documents\Visual Studio 2013\Projects\7.1.2016\OrFins\OrFins\obj\x86\Debug\OrFins.exe
+C:\Users\אור\Documents\Visual Studio 2013\Projects\7.1.2016\OrFins\OrFins\obj\x86\Debug\OrFins.pdb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\7.1.2016\OrFins\OrFins\bin\x86\Debug\Content\shirt\jump.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\7.1.2016\OrFins\OrFins\bin\x86\Debug\Content\shirt\prone.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins\OrFins\OrFins\bin\x86\Debug\Content\dino\prone.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins\OrFins\OrFins\bin\x86\Debug\Content\player\walk.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins\OrFins\OrFins\bin\x86\Debug\Content\player\stand.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins\OrFins\OrFins\bin\x86\Debug\Content\player\jump.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins\OrFins\OrFins\bin\x86\Debug\Content\player\prone.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins\OrFins\OrFins\bin\x86\Debug\Content\shirt\stand.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins\OrFins\OrFins\bin\x86\Debug\Content\shirt\walk.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins\OrFins\OrFins\bin\x86\Debug\Content\shirt\jump.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins\OrFins\OrFins\bin\x86\Debug\Content\shirt\prone.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins - עותק\OrFins\OrFins\obj\x86\Debug\OrFins.csprojResolveAssemblyReference.cache
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins - עותק\OrFins\OrFins\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins - עותק\OrFins\OrFins\obj\x86\Debug\OrFins.exe
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins - עותק\OrFins\OrFins\bin\x86\Debug\Content\dino\walk.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins - עותק\OrFins\OrFins\bin\x86\Debug\Content\dino\stand.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins - עותק\OrFins\OrFins\bin\x86\Debug\Content\dino\jump.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins - עותק\OrFins\OrFins\bin\x86\Debug\Content\foreground\top.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins - עותק\OrFins\OrFins\bin\x86\Debug\Content\foreground\bottom.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins - עותק\OrFins\OrFins\bin\x86\Debug\Content\foreground\hover.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins - עותק\OrFins\OrFins\bin\x86\Debug\Content\dino\prone.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins - עותק\OrFins\OrFins\bin\x86\Debug\Content\player\walk.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins - עותק\OrFins\OrFins\bin\x86\Debug\Content\player\stand.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins - עותק\OrFins\OrFins\bin\x86\Debug\Content\player\jump.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins - עותק\OrFins\OrFins\bin\x86\Debug\Content\player\prone.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins - עותק\OrFins\OrFins\bin\x86\Debug\Content\shirt\stand.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins - עותק\OrFins\OrFins\bin\x86\Debug\Content\shirt\walk.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins - עותק\OrFins\OrFins\bin\x86\Debug\Content\shirt\jump.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins - עותק\OrFins\OrFins\bin\x86\Debug\Content\shirt\prone.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins - עותק\OrFins\OrFins\bin\x86\Debug\OrFins.exe
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins - עותק\OrFins\OrFins\bin\x86\Debug\OrFins.pdb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins - עותק\OrFins\OrFins\obj\x86\Debug\OrFins.pdb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface\OrFins\OrFins\obj\x86\Debug\OrFins.csprojResolveAssemblyReference.cache
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface\OrFins\OrFins\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface\OrFins\OrFins\obj\x86\Debug\OrFins.exe
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface\OrFins\OrFins\obj\x86\Debug\OrFins.pdb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface\OrFins\OrFins\bin\x86\Debug\Content\dino\walk.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface\OrFins\OrFins\bin\x86\Debug\Content\dino\stand.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface\OrFins\OrFins\bin\x86\Debug\Content\dino\jump.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface\OrFins\OrFins\bin\x86\Debug\Content\foreground\top.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface\OrFins\OrFins\bin\x86\Debug\Content\foreground\bottom.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface\OrFins\OrFins\bin\x86\Debug\Content\foreground\hover.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface\OrFins\OrFins\bin\x86\Debug\Content\dino\prone.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface\OrFins\OrFins\bin\x86\Debug\Content\player\walk.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface\OrFins\OrFins\bin\x86\Debug\Content\player\stand.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface\OrFins\OrFins\bin\x86\Debug\Content\player\jump.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface\OrFins\OrFins\bin\x86\Debug\Content\player\prone.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface\OrFins\OrFins\bin\x86\Debug\Content\shirt\stand.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface\OrFins\OrFins\bin\x86\Debug\Content\shirt\walk.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface\OrFins\OrFins\bin\x86\Debug\Content\shirt\jump.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface\OrFins\OrFins\bin\x86\Debug\Content\shirt\prone.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface\OrFins\OrFins\bin\x86\Debug\OrFins.exe
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface\OrFins\OrFins\bin\x86\Debug\OrFins.pdb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface and mob class\OrFins\OrFins\bin\x86\Debug\Content\dino\walk.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface and mob class\OrFins\OrFins\bin\x86\Debug\Content\dino\stand.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface and mob class\OrFins\OrFins\bin\x86\Debug\Content\dino\jump.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface and mob class\OrFins\OrFins\bin\x86\Debug\Content\foreground\top.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface and mob class\OrFins\OrFins\bin\x86\Debug\Content\foreground\bottom.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface and mob class\OrFins\OrFins\bin\x86\Debug\Content\foreground\hover.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface and mob class\OrFins\OrFins\bin\x86\Debug\Content\dino\prone.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface and mob class\OrFins\OrFins\bin\x86\Debug\Content\player\walk.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface and mob class\OrFins\OrFins\bin\x86\Debug\Content\player\stand.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface and mob class\OrFins\OrFins\bin\x86\Debug\Content\player\jump.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface and mob class\OrFins\OrFins\bin\x86\Debug\Content\player\prone.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface and mob class\OrFins\OrFins\bin\x86\Debug\Content\shirt\stand.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface and mob class\OrFins\OrFins\bin\x86\Debug\Content\shirt\walk.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface and mob class\OrFins\OrFins\bin\x86\Debug\Content\shirt\jump.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface and mob class\OrFins\OrFins\bin\x86\Debug\Content\shirt\prone.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface and mob class\OrFins\OrFins\bin\x86\Debug\Content\rope\bottom.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface and mob class\OrFins\OrFins\bin\x86\Debug\Content\rope\hover.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface and mob class\OrFins\OrFins\bin\x86\Debug\Content\rope\top.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface and mob class\OrFins\OrFins\bin\x86\Debug\OrFins.exe
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface and mob class\OrFins\OrFins\bin\x86\Debug\OrFins.pdb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface and mob class\OrFins\OrFins\obj\x86\Debug\OrFins.csprojResolveAssemblyReference.cache
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface and mob class\OrFins\OrFins\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface and mob class\OrFins\OrFins\obj\x86\Debug\OrFins.exe
+C:\Users\אור\Documents\Visual Studio 2013\Projects\12.01.2016c - living_objects_interface and mob class\OrFins\OrFins\obj\x86\Debug\OrFins.pdb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016a player_touches_rope\OrFins\OrFins\bin\x86\Debug\Content\dino\walk.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016a player_touches_rope\OrFins\OrFins\bin\x86\Debug\Content\dino\stand.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016a player_touches_rope\OrFins\OrFins\bin\x86\Debug\Content\dino\jump.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016a player_touches_rope\OrFins\OrFins\bin\x86\Debug\Content\foreground\top.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016a player_touches_rope\OrFins\OrFins\bin\x86\Debug\Content\foreground\bottom.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016a player_touches_rope\OrFins\OrFins\bin\x86\Debug\Content\foreground\hover.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016a player_touches_rope\OrFins\OrFins\bin\x86\Debug\Content\dino\prone.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016a player_touches_rope\OrFins\OrFins\bin\x86\Debug\Content\player\walk.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016a player_touches_rope\OrFins\OrFins\bin\x86\Debug\Content\player\stand.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016a player_touches_rope\OrFins\OrFins\bin\x86\Debug\Content\player\jump.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016a player_touches_rope\OrFins\OrFins\bin\x86\Debug\Content\player\prone.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016a player_touches_rope\OrFins\OrFins\bin\x86\Debug\Content\shirt\stand.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016a player_touches_rope\OrFins\OrFins\bin\x86\Debug\Content\shirt\walk.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016a player_touches_rope\OrFins\OrFins\bin\x86\Debug\Content\shirt\jump.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016a player_touches_rope\OrFins\OrFins\bin\x86\Debug\Content\shirt\prone.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016a player_touches_rope\OrFins\OrFins\bin\x86\Debug\Content\rope\bottom.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016a player_touches_rope\OrFins\OrFins\bin\x86\Debug\Content\rope\hover.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016a player_touches_rope\OrFins\OrFins\bin\x86\Debug\Content\rope\top.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016a player_touches_rope\OrFins\OrFins\bin\x86\Debug\OrFins.exe
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016a player_touches_rope\OrFins\OrFins\bin\x86\Debug\OrFins.pdb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016a player_touches_rope\OrFins\OrFins\obj\x86\Debug\OrFins.csprojResolveAssemblyReference.cache
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016a player_touches_rope\OrFins\OrFins\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016a player_touches_rope\OrFins\OrFins\obj\x86\Debug\OrFins.exe
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016a player_touches_rope\OrFins\OrFins\obj\x86\Debug\OrFins.pdb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016b\OrFins\OrFins\bin\x86\Debug\Content\dino\walk.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016b\OrFins\OrFins\bin\x86\Debug\Content\dino\stand.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016b\OrFins\OrFins\bin\x86\Debug\Content\dino\jump.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016b\OrFins\OrFins\bin\x86\Debug\Content\foreground\top.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016b\OrFins\OrFins\bin\x86\Debug\Content\foreground\bottom.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016b\OrFins\OrFins\bin\x86\Debug\Content\foreground\hover.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016b\OrFins\OrFins\bin\x86\Debug\Content\dino\prone.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016b\OrFins\OrFins\bin\x86\Debug\Content\player\walk.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016b\OrFins\OrFins\bin\x86\Debug\Content\player\stand.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016b\OrFins\OrFins\bin\x86\Debug\Content\player\jump.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016b\OrFins\OrFins\bin\x86\Debug\Content\player\prone.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016b\OrFins\OrFins\bin\x86\Debug\Content\shirt\stand.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016b\OrFins\OrFins\bin\x86\Debug\Content\shirt\walk.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016b\OrFins\OrFins\bin\x86\Debug\Content\shirt\jump.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016b\OrFins\OrFins\bin\x86\Debug\Content\shirt\prone.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016b\OrFins\OrFins\bin\x86\Debug\Content\rope\bottom.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016b\OrFins\OrFins\bin\x86\Debug\Content\rope\hover.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016b\OrFins\OrFins\bin\x86\Debug\Content\rope\top.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016b\OrFins\OrFins\bin\x86\Debug\OrFins.exe
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016b\OrFins\OrFins\bin\x86\Debug\OrFins.pdb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016b\OrFins\OrFins\obj\x86\Debug\OrFins.csprojResolveAssemblyReference.cache
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016b\OrFins\OrFins\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016b\OrFins\OrFins\obj\x86\Debug\OrFins.exe
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016b\OrFins\OrFins\obj\x86\Debug\OrFins.pdb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016b\OrFins\OrFins\bin\x86\Debug\Content\player\onRope.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\13.01.2016b\OrFins\OrFins\bin\x86\Debug\Content\shirt\onRope.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\orfins\OrFins\OrFins\bin\x86\Debug\Content\player\onRope.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\orfins\OrFins\OrFins\bin\x86\Debug\Content\rope\bottom.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\orfins\OrFins\OrFins\bin\x86\Debug\Content\rope\hover.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\orfins\OrFins\OrFins\bin\x86\Debug\Content\rope\top.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\orfins\OrFins\OrFins\bin\x86\Debug\Content\shirt\onRope.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins\OrFins\OrFins\bin\x86\Debug\Content\sword\jump.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins\OrFins\OrFins\bin\x86\Debug\Content\sword\prone.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\orfins\OrFins\OrFins\bin\x86\Debug\Content\sword\stand.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\orfins\OrFins\OrFins\bin\x86\Debug\Content\sword\walk.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\orfins\OrFins\OrFins\bin\x86\Debug\Content\player\attack1.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\orfins\OrFins\OrFins\bin\x86\Debug\Content\sword\attack1.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\orfins\OrFins\OrFins\bin\x86\Debug\Content\BACKGROUND.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\orfins\OrFins\OrFins\bin\x86\Debug\Content\player\stab1.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\orfins\OrFins\OrFins\bin\x86\Debug\Content\sword\stab1.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\orfins\OrFins\OrFins\bin\x86\Debug\Content\shirt\stab1.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins\OrFins\OrFins\bin\x86\Debug\Content\HUD.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins\OrFins\OrFins\bin\x86\Debug\Content\HPBAR.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins\OrFins\OrFins\bin\x86\Debug\Content\MPBAR.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins\OrFins\OrFins\bin\x86\Debug\Content\XPBAR.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins\OrFins\OrFins\obj\x86\Debug\OrFins.csprojResolveAssemblyReference.cache
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins\OrFins\OrFins\bin\x86\Debug\Content\teddy\stand.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins\OrFins\OrFins\bin\x86\Debug\Content\teddy\walk.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins\OrFins\OrFins\bin\x86\Debug\Content\teddy\jump.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\OrFins\OrFins\OrFins\bin\x86\Debug\Content\LEVEL.xnb
+C:\Users\אור\Desktop\OrFins\OrFins\OrFins\bin\x86\Debug\Content\dino\walk.xnb
+C:\Users\אור\Desktop\OrFins\OrFins\OrFins\bin\x86\Debug\Content\dino\stand.xnb
+C:\Users\אור\Desktop\OrFins\OrFins\OrFins\bin\x86\Debug\Content\dino\jump.xnb
+C:\Users\אור\Desktop\OrFins\OrFins\OrFins\bin\x86\Debug\Content\foreground\top.xnb
+C:\Users\אור\Desktop\OrFins\OrFins\OrFins\bin\x86\Debug\Content\foreground\bottom.xnb
+C:\Users\אור\Desktop\OrFins\OrFins\OrFins\bin\x86\Debug\Content\foreground\hover.xnb
+C:\Users\אור\Desktop\OrFins\OrFins\OrFins\bin\x86\Debug\Content\dino\prone.xnb
+C:\Users\אור\Desktop\OrFins\OrFins\OrFins\bin\x86\Debug\Content\player\walk.xnb
+C:\Users\אור\Desktop\OrFins\OrFins\OrFins\bin\x86\Debug\Content\player\stand.xnb
+C:\Users\אור\Desktop\OrFins\OrFins\OrFins\bin\x86\Debug\Content\player\jump.xnb
+C:\Users\אור\Desktop\OrFins\OrFins\OrFins\bin\x86\Debug\Content\player\prone.xnb
+C:\Users\אור\Desktop\OrFins\OrFins\OrFins\bin\x86\Debug\Content\shirt\stand.xnb
+C:\Users\אור\Desktop\OrFins\OrFins\OrFins\bin\x86\Debug\Content\shirt\walk.xnb
+C:\Users\אור\Desktop\OrFins\OrFins\OrFins\bin\x86\Debug\Content\shirt\jump.xnb
+C:\Users\אור\Desktop\OrFins\OrFins\OrFins\bin\x86\Debug\Content\shirt\prone.xnb
+C:\Users\אור\Desktop\OrFins\OrFins\OrFins\bin\x86\Debug\Content\player\onRope.xnb
+C:\Users\אור\Desktop\OrFins\OrFins\OrFins\bin\x86\Debug\Content\rope\bottom.xnb
+C:\Users\אור\Desktop\OrFins\OrFins\OrFins\bin\x86\Debug\Content\rope\hover.xnb
+C:\Users\אור\Desktop\OrFins\OrFins\OrFins\bin\x86\Debug\Content\rope\top.xnb
+C:\Users\אור\Desktop\OrFins\OrFins\OrFins\bin\x86\Debug\Content\shirt\onRope.xnb
+C:\Users\אור\Desktop\OrFins\OrFins\OrFins\bin\x86\Debug\Content\sword\jump.xnb
+C:\Users\אור\Desktop\OrFins\OrFins\OrFins\bin\x86\Debug\Content\sword\stand.xnb
+C:\Users\אור\Desktop\OrFins\OrFins\OrFins\bin\x86\Debug\Content\sword\prone.xnb
+C:\Users\אור\Desktop\OrFins\OrFins\OrFins\bin\x86\Debug\Content\sword\walk.xnb
+C:\Users\אור\Desktop\OrFins\OrFins\OrFins\bin\x86\Debug\Content\player\attack1.xnb
+C:\Users\אור\Desktop\OrFins\OrFins\OrFins\bin\x86\Debug\Content\sword\attack1.xnb
+C:\Users\אור\Desktop\OrFins\OrFins\OrFins\bin\x86\Debug\Content\BACKGROUND.xnb
+C:\Users\אור\Desktop\OrFins\OrFins\OrFins\bin\x86\Debug\Content\player\stab1.xnb
+C:\Users\אור\Desktop\OrFins\OrFins\OrFins\bin\x86\Debug\Content\sword\stab1.xnb
+C:\Users\אור\Desktop\OrFins\OrFins\OrFins\bin\x86\Debug\Content\shirt\stab1.xnb
+C:\Users\אור\Desktop\OrFins\OrFins\OrFins\bin\x86\Debug\Content\teddy\stand.xnb
+C:\Users\אור\Desktop\OrFins\OrFins\OrFins\bin\x86\Debug\Content\teddy\walk.xnb
+C:\Users\אור\Desktop\OrFins\OrFins\OrFins\bin\x86\Debug\Content\teddy\jump.xnb
+C:\Users\אור\Desktop\OrFins\OrFins\OrFins\bin\x86\Debug\OrFins.exe
+C:\Users\אור\Desktop\OrFins\OrFins\OrFins\bin\x86\Debug\OrFins.pdb
+C:\Users\אור\Desktop\OrFins\OrFins\OrFins\obj\x86\Debug\OrFins.csprojResolveAssemblyReference.cache
+C:\Users\אור\Desktop\OrFins\OrFins\OrFins\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\אור\Desktop\OrFins\OrFins\OrFins\obj\x86\Debug\OrFins.exe
+C:\Users\אור\Desktop\OrFins\OrFins\OrFins\obj\x86\Debug\OrFins.pdb
+C:\Users\אור\Desktop\OrFins\OrFins\OrFins\bin\x86\Debug\Content\hud\HUD.xnb
+C:\Users\אור\Desktop\OrFins\OrFins\OrFins\bin\x86\Debug\Content\hud\HPBAR.xnb
+C:\Users\אור\Desktop\OrFins\OrFins\OrFins\bin\x86\Debug\Content\hud\MPBAR.xnb
+C:\Users\אור\Desktop\OrFins\OrFins\OrFins\bin\x86\Debug\Content\hud\XPBAR.xnb
+C:\Users\אור\Desktop\OrFins\OrFins\OrFins\bin\x86\Debug\Content\hud\levels.xnb
+C:\Users\אור\Desktop\OrFins\OrFins\OrFins\bin\x86\Debug\Content\Font.xnb
+C:\Users\אור\Desktop\OrFins\OrFins\OrFins\bin\x86\Debug\Content\player\stab2.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFins\bin\x86\Debug\Content\dino\walk.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFins\bin\x86\Debug\Content\dino\stand.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFins\bin\x86\Debug\Content\dino\jump.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFins\bin\x86\Debug\Content\foreground\top.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFins\bin\x86\Debug\Content\foreground\bottom.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFins\bin\x86\Debug\Content\foreground\hover.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFins\bin\x86\Debug\Content\dino\prone.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFins\bin\x86\Debug\Content\player\walk.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFins\bin\x86\Debug\Content\player\stand.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFins\bin\x86\Debug\Content\player\jump.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFins\bin\x86\Debug\Content\player\prone.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFins\bin\x86\Debug\Content\shirt\stand.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFins\bin\x86\Debug\Content\shirt\walk.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFins\bin\x86\Debug\Content\shirt\jump.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFins\bin\x86\Debug\Content\shirt\prone.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFins\bin\x86\Debug\Content\player\onRope.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFins\bin\x86\Debug\Content\rope\bottom.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFins\bin\x86\Debug\Content\rope\hover.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFins\bin\x86\Debug\Content\rope\top.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFins\bin\x86\Debug\Content\shirt\onRope.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFins\bin\x86\Debug\Content\sword\jump.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFins\bin\x86\Debug\Content\sword\stand.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFins\bin\x86\Debug\Content\sword\prone.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFins\bin\x86\Debug\Content\sword\walk.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFins\bin\x86\Debug\Content\player\attack1.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFins\bin\x86\Debug\Content\sword\attack1.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFins\bin\x86\Debug\Content\BACKGROUND.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFins\bin\x86\Debug\Content\player\stab1.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFins\bin\x86\Debug\Content\sword\stab1.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFins\bin\x86\Debug\Content\shirt\stab1.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFins\bin\x86\Debug\Content\hud\hpBar.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFins\bin\x86\Debug\Content\hud\mpBar.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFins\bin\x86\Debug\Content\hud\xpBar.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFins\bin\x86\Debug\Content\teddy\stand.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFins\bin\x86\Debug\Content\teddy\walk.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFins\bin\x86\Debug\Content\teddy\jump.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFins\bin\x86\Debug\Content\hud\levels.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFins\bin\x86\Debug\Content\hud\hud.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFins\bin\x86\Debug\Content\player\stab2.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFins\bin\x86\Debug\Content\Font.xnb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFins\bin\x86\Debug\OrFins.exe
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFins\bin\x86\Debug\OrFins.pdb
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFins\obj\x86\Debug\OrFins.csprojResolveAssemblyReference.cache
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFins\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFins\obj\x86\Debug\OrFins.exe
+C:\Users\אור\Documents\Visual Studio 2013\Projects\ארכיון\פרויקט XNA\26.01.2016\OrFins\OrFins\obj\x86\Debug\OrFins.pdb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\dino\walk.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\dino\stand.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\dino\jump.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\foreground\top.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\foreground\bottom.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\foreground\hover.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\dino\prone.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\walk.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\stand.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\jump.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\prone.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\stand.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\walk.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\jump.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\prone.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\onRope.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\rope\bottom.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\rope\hover.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\rope\top.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\onRope.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\jump.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\stand.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\prone.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\walk.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\stab1.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\stab1.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\hud\hpBar.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\hud\mpBar.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\hud\xpBar.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\teddy\stand.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\teddy\walk.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\teddy\jump.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\hud\levels.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\hud\hud.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\stab2.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\Font.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\OrFins.exe
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\OrFins.pdb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\obj\x86\Debug\OrFins.csprojResolveAssemblyReference.cache
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\obj\x86\Debug\OrFins.exe
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\obj\x86\Debug\OrFins.pdb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\swing1.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\swing2.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\npc\marco.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\npc\Chiang.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\cityforeground\bottom.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\cityforeground\top.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\cityforeground\hover.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\stab3.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\alert.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\stab2.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\stab3.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\swing1.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\swing3.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\swing2.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\swing3.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\alert.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\dino\alert.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\teddy\alert.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\portal\stand.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\greenBackGround\middle.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\greenBackGround\back.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\greenBackGround\front.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\teddy\die.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\dino\die.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\pickup\money.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\cityBackGround\back.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\shop_item.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shop\shopTexture.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\rectangleTexture.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\alert.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\stab1.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\stab2.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\swing1.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\swing2.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\swing3.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\stab3.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\onRope.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\worm\walk.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\worm\alert.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\worm\stand.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\worm\die.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\obj\x86\Debug\OrFins.csprojResolveAssemblyReference.cache
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\obj\x86\Debug\OrFins.exe
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\dino\walk.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\dino\stand.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\dino\jump.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\foreground\top.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\foreground\bottom.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\foreground\hover.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\dino\prone.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\player\walk.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\player\stand.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\player\jump.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\player\prone.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\player\onRope.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\rope\bottom.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\rope\hover.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\rope\top.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\sword\jump.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\sword\stand.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\sword\prone.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\sword\walk.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\sword\swing1.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\player\stab1.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\hud\hpBar.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\hud\mpBar.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\hud\xpBar.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\teddy\stand.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\teddy\walk.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\teddy\jump.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\hud\levels.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\hud\hud.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\player\stab2.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\player\swing2.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\player\swing3.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\npc\marco.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\npc\Chiang.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\cityforeground\bottom.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\cityforeground\top.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\cityforeground\hover.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\player\stab3.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\player\alert.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\player\swing1.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\sword\alert.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\sword\stab2.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\sword\stab3.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\sword\swing2.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\sword\swing3.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\dino\alert.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\teddy\alert.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\portal\stand.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\greenBackGround\middle.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\greenBackGround\back.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\greenBackGround\front.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\teddy\die.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\dino\die.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\pickup\money.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\cityBackGround\back.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\sword\stab1.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\sword\shop_item.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\shop\shopTexture.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\rectangleTexture.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\shirt\alert.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\shirt\stab1.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\shirt\stab2.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\shirt\swing1.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\shirt\swing2.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\shirt\swing3.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\shirt\stab3.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\shirt\onRope.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\shirt\jump.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\shirt\prone.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\shirt\stand.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\shirt\walk.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\sword\onRope.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\worm\walk.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\worm\alert.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\worm\stand.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\worm\die.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\strawpile\bottom.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\strawpile\top.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\Content\Font.xnb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\OrFins.exe
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\bin\x86\Debug\OrFins.pdb
+C:\Users\אור\Desktop\15.2.16 לפני שינוי פלטפורמות - עותק\OrFins\OrFins\obj\x86\Debug\OrFins.pdb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\strawpile\bottom.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\strawpile\top.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\dino\walk.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\dino\stand.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\dino\jump.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\foreground\top.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\foreground\bottom.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\foreground\hover.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\dino\prone.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\walk.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\stand.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\jump.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\prone.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\onRope.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\rope\bottom.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\rope\hover.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\rope\top.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\jump.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\stand.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\prone.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\walk.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\swing1.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\stab1.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\hud\hpBar.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\hud\mpBar.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\hud\xpBar.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\teddy\stand.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\teddy\walk.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\teddy\jump.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\hud\levels.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\hud\hud.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\stab2.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\swing2.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\swing3.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\npc\marco.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\npc\Chiang.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\cityforeground\bottom.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\cityforeground\top.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\cityforeground\hover.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\stab3.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\alert.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\swing1.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\alert.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\stab2.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\stab3.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\swing2.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\swing3.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\dino\alert.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\teddy\alert.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\portal\stand.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\greenBackGround\middle.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\greenBackGround\back.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\greenBackGround\front.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\teddy\die.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\dino\die.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\pickup\money.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\cityBackGround\back.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\stab1.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\shop_item.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shop\shopTexture.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\rectangleTexture.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\alert.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\stab1.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\stab2.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\swing1.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\swing2.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\swing3.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\stab3.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\onRope.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\jump.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\prone.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\stand.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\walk.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\onRope.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\worm\walk.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\worm\alert.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\worm\stand.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\worm\die.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\strawpile\bottom.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\strawpile\top.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\Content\Font.xnb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\OrFins.exe
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\bin\x86\Debug\OrFins.pdb
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\obj\x86\Debug\OrFins.csprojResolveAssemblyReference.cache
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\obj\x86\Debug\OrFins.exe
+C:\Users\אור\Desktop\גיבוי פרויקט XNA\אחרון\OrFins\OrFins\obj\x86\Debug\OrFins.pdb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\dino\walk.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\dino\stand.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\dino\jump.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\foreground\top.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\foreground\bottom.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\foreground\hover.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\dino\prone.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\walk.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\stand.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\jump.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\prone.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\onRope.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\rope\bottom.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\rope\hover.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\rope\top.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\jump.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\stand.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\prone.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\walk.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\swing1.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\stab1.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\hud\hpBar.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\hud\mpBar.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\hud\xpBar.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\teddy\stand.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\teddy\walk.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\teddy\jump.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\hud\levels.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\hud\hud.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\stab2.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\swing2.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\swing3.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\npc\marco.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\npc\Chiang.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\cityforeground\bottom.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\cityforeground\top.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\cityforeground\hover.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\stab3.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\alert.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\swing1.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\alert.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\stab2.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\stab3.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\swing2.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\swing3.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\dino\alert.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\teddy\alert.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\portal\stand.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\greenBackGround\middle.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\greenBackGround\back.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\greenBackGround\front.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\teddy\die.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\dino\die.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\pickup\money.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\cityBackGround\back.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\stab1.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\shop_item.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shop\shopTexture.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\rectangleTexture.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\alert.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\stab1.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\stab2.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\swing1.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\swing2.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\swing3.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\stab3.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\onRope.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\jump.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\prone.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\stand.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\walk.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\onRope.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\worm\walk.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\worm\alert.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\worm\stand.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\worm\die.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\strawpile\bottom.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\strawpile\top.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\Font.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\OrFins.exe
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\OrFins.pdb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\obj\x86\Debug\OrFins.csprojResolveAssemblyReference.cache
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\obj\x86\Debug\OrFins.exe
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\obj\x86\Debug\OrFins.pdb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\regularButton\clicked.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\regularButton\buttonHover.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\regularButton\notClicked.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\regularButton\clicked.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\regularButton\buttonHover.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\regularButton\notClicked.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\die.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\Interaction\dialogBox.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\bgm.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\mobHit.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\attack.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\mobDie.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\teleport.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\jump.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\dying.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\אחרון\OrFins\OrFins\bin\x86\Debug\Content\death.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\dino\walk.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\dino\stand.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\dino\jump.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\foreground\top.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\foreground\bottom.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\foreground\hover.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\dino\prone.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\player\walk.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\player\stand.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\player\jump.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\player\prone.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\player\onRope.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\rope\bottom.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\rope\hover.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\rope\top.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\sword\jump.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\sword\stand.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\sword\prone.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\sword\walk.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\sword\swing1.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\player\stab1.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\hud\hpBar.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\hud\mpBar.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\hud\xpBar.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\teddy\stand.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\teddy\walk.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\teddy\jump.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\hud\levels.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\hud\hud.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\player\stab2.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\player\swing2.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\player\swing3.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\npc\marco.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\npc\Chiang.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\cityforeground\bottom.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\cityforeground\top.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\cityforeground\hover.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\player\stab3.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\player\alert.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\player\swing1.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\sword\alert.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\sword\stab2.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\sword\stab3.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\sword\swing2.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\sword\swing3.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\dino\alert.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\teddy\alert.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\portal\stand.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\greenBackGround\middle.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\greenBackGround\back.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\greenBackGround\front.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\teddy\die.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\dino\die.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\pickup\money.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\cityBackGround\back.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\sword\stab1.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\sword\shop_item.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\shop\shopTexture.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\rectangleTexture.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\shirt\alert.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\shirt\stab1.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\shirt\stab2.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\shirt\swing1.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\shirt\swing2.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\shirt\swing3.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\shirt\stab3.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\shirt\onRope.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\shirt\jump.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\shirt\prone.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\shirt\stand.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\shirt\walk.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\sword\onRope.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\worm\walk.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\worm\alert.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\worm\stand.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\worm\die.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\strawpile\bottom.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\strawpile\top.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\player\die.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\Interaction\dialogBox.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\regularButton\buttonHover.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\regularButton\clicked.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\regularButton\notClicked.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\Font.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\mobHit.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\attack.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\mobDie.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\bgm.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\teleport.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\jump.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\dying.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\Content\death.xnb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\OrFins.exe
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\bin\x86\Debug\OrFins.pdb
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\obj\x86\Debug\OrFins.csprojResolveAssemblyReference.cache
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\obj\x86\Debug\OrFins.exe
+C:\Users\אור\Documents\יג חומרים\XNA פרויקט\2.3.16 סאונד וכפתור מוות\OrFins\OrFins\obj\x86\Debug\OrFins.pdb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\die.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\Interaction\dialogBox.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\mobHit.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\attack.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\mobDie.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\bgm.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\teleport.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\jump.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\dying.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\death.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\maps\map1\platform1.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\maps\map1\platform2.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\maps\city\city_0.xnb
+C:\Users\אור\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\maps\city\city_1.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\dino\walk.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\dino\stand.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\dino\jump.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\foreground\top.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\foreground\bottom.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\foreground\hover.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\dino\prone.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\walk.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\stand.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\jump.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\prone.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\onRope.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\rope\bottom.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\rope\hover.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\rope\top.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\jump.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\stand.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\prone.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\walk.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\swing1.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\stab1.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\hud\hpBar.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\hud\mpBar.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\hud\xpBar.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\teddy\stand.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\teddy\walk.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\teddy\jump.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\hud\levels.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\hud\hud.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\stab2.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\swing2.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\swing3.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\npc\marco.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\npc\Chiang.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\cityforeground\bottom.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\cityforeground\top.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\cityforeground\hover.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\stab3.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\alert.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\swing1.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\alert.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\stab2.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\stab3.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\swing2.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\swing3.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\dino\alert.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\teddy\alert.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\portal\stand.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\greenBackGround\middle.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\greenBackGround\back.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\greenBackGround\front.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\teddy\die.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\dino\die.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\pickup\money.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\cityBackGround\back.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\stab1.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shop\shopTexture.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\rectangleTexture.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\alert.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\stab1.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\stab2.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\swing1.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\swing2.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\swing3.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\stab3.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\onRope.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\jump.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\prone.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\stand.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\walk.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\onRope.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\worm\walk.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\worm\alert.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\worm\stand.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\worm\die.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\strawpile\bottom.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\strawpile\top.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\die.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\regularButton\buttonHover.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\regularButton\clicked.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\regularButton\notClicked.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\maps\map1\platform1.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\maps\map1\platform2.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\maps\city\city_1.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\maps\city\city_0.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\Font.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\mobHit.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\attack.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\mobDie.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\bgm.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\teleport.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\jump.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\dying.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\death.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\OrFins.exe
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\OrFins.pdb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\obj\x86\Debug\OrFins.exe
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\obj\x86\Debug\OrFins.pdb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\worm\walkmask.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\worm\standmask.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\teddy\walkmask.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\teddy\standmask.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\teddy\jumpmask.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\jumpmask.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\onRopemask.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\pronemask.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\walkmask.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\standmask.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\stab1mask.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\stab2mask.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\stab3mask.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\swing1mask.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\swing2mask.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\player\swing3mask.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\characterGUI\equipment.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\sword\equipment.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\shirt\equipment.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\characterGUI\bag.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\characterGUI\deathBox.xnb
+C:\Users\OR_FINS\Desktop\אחרון\OrFins\OrFins\bin\x86\Debug\Content\menu\main.xnb

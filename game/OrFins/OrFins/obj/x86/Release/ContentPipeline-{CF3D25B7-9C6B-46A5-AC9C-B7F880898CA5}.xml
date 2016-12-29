@@ -1,0 +1,4021 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>player\walk.png</Source>
+      <Name>player\walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player\walk.xnb</Output>
+      <Time>2016-01-07T15:40:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>player\stand.png</Source>
+      <Name>player\stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player\stand.xnb</Output>
+      <Time>2016-01-07T15:38:34+02:00</Time>
+    </Item>
+    <Item>
+      <Source>player\jump.png</Source>
+      <Name>player\jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player\jump.xnb</Output>
+      <Time>2016-01-07T15:20:20+02:00</Time>
+    </Item>
+    <Item>
+      <Source>player\prone.png</Source>
+      <Name>player\prone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player\prone.xnb</Output>
+      <Time>2016-01-07T15:20:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>player\onRope.png</Source>
+      <Name>player\onRope</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player\onRope.xnb</Output>
+      <Time>2016-01-13T10:17:04+02:00</Time>
+    </Item>
+    <Item>
+      <Source>rope\bottom.png</Source>
+      <Name>rope\bottom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\rope\bottom.xnb</Output>
+      <Time>2016-01-13T00:19:02+02:00</Time>
+    </Item>
+    <Item>
+      <Source>rope\hover.png</Source>
+      <Name>rope\hover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\rope\hover.xnb</Output>
+      <Time>2016-02-02T16:57:00+02:00</Time>
+    </Item>
+    <Item>
+      <Source>rope\top.png</Source>
+      <Name>rope\top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\rope\top.xnb</Output>
+      <Time>2016-01-13T00:16:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sword\jump.png</Source>
+      <Name>Sword\jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Sword\jump.xnb</Output>
+      <Time>2016-02-12T12:26:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sword\stand.png</Source>
+      <Name>Sword\stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Sword\stand.xnb</Output>
+      <Time>2016-02-12T12:30:36+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sword\prone.png</Source>
+      <Name>Sword\prone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Sword\prone.xnb</Output>
+      <Time>2016-02-12T12:27:32+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sword\walk.png</Source>
+      <Name>Sword\walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Sword\walk.xnb</Output>
+      <Time>2016-02-12T12:36:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sword\swing1.png</Source>
+      <Name>Sword\swing1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Sword\swing1.xnb</Output>
+      <Time>2016-02-12T12:32:38+02:00</Time>
+    </Item>
+    <Item>
+      <Source>player\stab1.png</Source>
+      <Name>player\stab1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player\stab1.xnb</Output>
+      <Time>2016-02-12T15:12:26+02:00</Time>
+    </Item>
+    <Item>
+      <Source>hud\hpBar.png</Source>
+      <Name>hud\hpBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\hud\hpBar.xnb</Output>
+      <Time>2016-01-23T20:59:04+02:00</Time>
+    </Item>
+    <Item>
+      <Source>hud\mpBar.png</Source>
+      <Name>hud\mpBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\hud\mpBar.xnb</Output>
+      <Time>2016-01-23T21:01:16+02:00</Time>
+    </Item>
+    <Item>
+      <Source>hud\xpBar.png</Source>
+      <Name>hud\xpBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\hud\xpBar.xnb</Output>
+      <Time>2016-01-23T21:00:16+02:00</Time>
+    </Item>
+    <Item>
+      <Source>teddy\stand.png</Source>
+      <Name>teddy\stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\teddy\stand.xnb</Output>
+      <Time>2016-01-21T23:35:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>teddy\walk.png</Source>
+      <Name>teddy\walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\teddy\walk.xnb</Output>
+      <Time>2016-01-21T23:39:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>teddy\jump.png</Source>
+      <Name>teddy\jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\teddy\jump.xnb</Output>
+      <Time>2016-01-21T23:41:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>hud\levels.png</Source>
+      <Name>hud\levels</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\hud\levels.xnb</Output>
+      <Time>2016-01-23T19:02:22+02:00</Time>
+    </Item>
+    <Item>
+      <Source>hud\hud.png</Source>
+      <Name>hud\hud</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\hud\hud.xnb</Output>
+      <Time>2016-02-28T19:52:04+02:00</Time>
+    </Item>
+    <Item>
+      <Source>player\stab2.png</Source>
+      <Name>player\stab2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player\stab2.xnb</Output>
+      <Time>2016-02-12T15:19:48+02:00</Time>
+    </Item>
+    <Item>
+      <Source>player\swing2.png</Source>
+      <Name>player\swing2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player\swing2.xnb</Output>
+      <Time>2016-02-12T15:51:00+02:00</Time>
+    </Item>
+    <Item>
+      <Source>player\swing3.png</Source>
+      <Name>player\swing3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player\swing3.xnb</Output>
+      <Time>2016-02-12T15:56:04+02:00</Time>
+    </Item>
+    <Item>
+      <Source>npc\marco.png</Source>
+      <Name>npc\marco</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\npc\marco.xnb</Output>
+      <Time>2016-01-28T14:38:24+02:00</Time>
+    </Item>
+    <Item>
+      <Source>npc\Chiang.png</Source>
+      <Name>npc\Chiang</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\npc\Chiang.xnb</Output>
+      <Time>2016-01-28T15:53:18+02:00</Time>
+    </Item>
+    <Item>
+      <Source>player\stab3.png</Source>
+      <Name>player\stab3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player\stab3.xnb</Output>
+      <Time>2016-02-12T15:25:12+02:00</Time>
+    </Item>
+    <Item>
+      <Source>player\alert.png</Source>
+      <Name>player\alert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player\alert.xnb</Output>
+      <Time>2016-02-12T14:47:24+02:00</Time>
+    </Item>
+    <Item>
+      <Source>player\swing1.png</Source>
+      <Name>player\swing1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player\swing1.xnb</Output>
+      <Time>2016-02-12T15:45:26+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sword\alert.png</Source>
+      <Name>Sword\alert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Sword\alert.xnb</Output>
+      <Time>2016-02-12T16:39:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sword\stab2.png</Source>
+      <Name>Sword\stab2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Sword\stab2.xnb</Output>
+      <Time>2016-02-12T12:28:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sword\stab3.png</Source>
+      <Name>Sword\stab3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Sword\stab3.xnb</Output>
+      <Time>2016-02-12T12:29:24+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sword\swing2.png</Source>
+      <Name>Sword\swing2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Sword\swing2.xnb</Output>
+      <Time>2016-02-12T12:34:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sword\swing3.png</Source>
+      <Name>Sword\swing3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Sword\swing3.xnb</Output>
+      <Time>2016-02-12T12:35:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>teddy\alert.png</Source>
+      <Name>teddy\alert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\teddy\alert.xnb</Output>
+      <Time>2016-02-07T11:34:38+02:00</Time>
+    </Item>
+    <Item>
+      <Source>portal\stand.png</Source>
+      <Name>portal\stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\portal\stand.xnb</Output>
+      <Time>2016-02-08T20:35:32+02:00</Time>
+    </Item>
+    <Item>
+      <Source>greenBackGround\back.png</Source>
+      <Name>greenBackGround\back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\greenBackGround\back.xnb</Output>
+      <Time>2016-02-09T16:32:48+02:00</Time>
+    </Item>
+    <Item>
+      <Source>teddy\die.png</Source>
+      <Name>teddy\die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\teddy\die.xnb</Output>
+      <Time>2016-02-09T19:45:26+02:00</Time>
+    </Item>
+    <Item>
+      <Source>pickup\money.png</Source>
+      <Name>pickup\money</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\pickup\money.xnb</Output>
+      <Time>2016-02-09T21:05:28+02:00</Time>
+    </Item>
+    <Item>
+      <Source>cityBackGround\back.png</Source>
+      <Name>cityBackGround\back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\cityBackGround\back.xnb</Output>
+      <Time>2016-02-10T16:21:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sword\stab1.png</Source>
+      <Name>Sword\stab1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Sword\stab1.xnb</Output>
+      <Time>2016-02-12T12:22:16+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sword\equipment.png</Source>
+      <Name>Sword\equipment</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Sword\equipment.xnb</Output>
+      <Time>2016-04-01T12:55:40+03:00</Time>
+    </Item>
+    <Item>
+      <Source>rectangleTexture.png</Source>
+      <Name>rectangleTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\rectangleTexture.xnb</Output>
+      <Time>2016-02-12T13:59:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Hwarang\alert.png</Source>
+      <Name>Hwarang\alert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Hwarang\alert.xnb</Output>
+      <Time>2016-02-12T15:10:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Hwarang\stab1.png</Source>
+      <Name>Hwarang\stab1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Hwarang\stab1.xnb</Output>
+      <Time>2016-02-12T15:19:02+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Hwarang\stab2.png</Source>
+      <Name>Hwarang\stab2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Hwarang\stab2.xnb</Output>
+      <Time>2016-02-12T15:23:30+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Hwarang\swing1.png</Source>
+      <Name>Hwarang\swing1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Hwarang\swing1.xnb</Output>
+      <Time>2016-02-12T15:50:14+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Hwarang\swing2.png</Source>
+      <Name>Hwarang\swing2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Hwarang\swing2.xnb</Output>
+      <Time>2016-02-12T15:55:22+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Hwarang\swing3.png</Source>
+      <Name>Hwarang\swing3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Hwarang\swing3.xnb</Output>
+      <Time>2016-02-12T16:00:00+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Hwarang\stab3.png</Source>
+      <Name>Hwarang\stab3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Hwarang\stab3.xnb</Output>
+      <Time>2016-02-12T16:05:06+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Hwarang\onRope.png</Source>
+      <Name>Hwarang\onRope</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Hwarang\onRope.xnb</Output>
+      <Time>2016-02-12T16:14:58+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Hwarang\jump.png</Source>
+      <Name>Hwarang\jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Hwarang\jump.xnb</Output>
+      <Time>2016-02-12T16:17:12+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Hwarang\prone.png</Source>
+      <Name>Hwarang\prone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Hwarang\prone.xnb</Output>
+      <Time>2016-02-12T16:18:32+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Hwarang\stand.png</Source>
+      <Name>Hwarang\stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Hwarang\stand.xnb</Output>
+      <Time>2016-02-12T16:21:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Hwarang\walk.png</Source>
+      <Name>Hwarang\walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Hwarang\walk.xnb</Output>
+      <Time>2016-02-12T16:22:36+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Sword\onRope.png</Source>
+      <Name>Sword\onRope</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Sword\onRope.xnb</Output>
+      <Time>2016-02-12T16:48:26+02:00</Time>
+    </Item>
+    <Item>
+      <Source>worm\walk.png</Source>
+      <Name>worm\walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\worm\walk.xnb</Output>
+      <Time>2016-02-13T15:51:10+02:00</Time>
+    </Item>
+    <Item>
+      <Source>worm\alert.png</Source>
+      <Name>worm\alert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\worm\alert.xnb</Output>
+      <Time>2016-02-13T15:51:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>worm\stand.png</Source>
+      <Name>worm\stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\worm\stand.xnb</Output>
+      <Time>2016-02-13T15:53:26+02:00</Time>
+    </Item>
+    <Item>
+      <Source>worm\die.png</Source>
+      <Name>worm\die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\worm\die.xnb</Output>
+      <Time>2016-02-13T15:55:54+02:00</Time>
+    </Item>
+    <Item>
+      <Source>strawpile\bottom.png</Source>
+      <Name>strawpile\bottom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\strawpile\bottom.xnb</Output>
+      <Time>2016-02-15T21:38:48+02:00</Time>
+    </Item>
+    <Item>
+      <Source>strawpile\top.png</Source>
+      <Name>strawpile\top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\strawpile\top.xnb</Output>
+      <Time>2016-02-15T21:38:50+02:00</Time>
+    </Item>
+    <Item>
+      <Source>player\die.png</Source>
+      <Name>player\die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player\die.xnb</Output>
+      <Time>2016-04-01T14:17:14+03:00</Time>
+    </Item>
+    <Item>
+      <Source>characterGUI\deathBox.png</Source>
+      <Name>characterGUI\deathBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\characterGUI\deathBox.xnb</Output>
+      <Time>2016-03-02T17:05:44+02:00</Time>
+    </Item>
+    <Item>
+      <Source>regularButton\buttonHover.png</Source>
+      <Name>regularButton\buttonHover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\regularButton\buttonHover.xnb</Output>
+      <Time>2016-03-02T17:37:42+02:00</Time>
+    </Item>
+    <Item>
+      <Source>regularButton\clicked.png</Source>
+      <Name>regularButton\clicked</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\regularButton\clicked.xnb</Output>
+      <Time>2016-03-02T17:37:42+02:00</Time>
+    </Item>
+    <Item>
+      <Source>regularButton\notClicked.png</Source>
+      <Name>regularButton\notClicked</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\regularButton\notClicked.xnb</Output>
+      <Time>2016-03-02T17:37:42+02:00</Time>
+    </Item>
+    <Item>
+      <Source>maps\map1\platform1.png</Source>
+      <Name>maps\map1\platform1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\maps\map1\platform1.xnb</Output>
+      <Time>2016-03-23T16:54:56+02:00</Time>
+    </Item>
+    <Item>
+      <Source>maps\map1\platform2.png</Source>
+      <Name>maps\map1\platform2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\maps\map1\platform2.xnb</Output>
+      <Time>2016-04-29T09:45:22+03:00</Time>
+    </Item>
+    <Item>
+      <Source>maps\city\city_1.png</Source>
+      <Name>maps\city\city_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\maps\city\city_1.xnb</Output>
+      <Time>2016-03-23T17:59:40+02:00</Time>
+    </Item>
+    <Item>
+      <Source>maps\city\city_0.png</Source>
+      <Name>maps\city\city_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\maps\city\city_0.xnb</Output>
+      <Time>2016-03-23T18:04:52+02:00</Time>
+    </Item>
+    <Item>
+      <Source>worm\walkmask.png</Source>
+      <Name>worm\walkmask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\worm\walkmask.xnb</Output>
+      <Time>2016-03-28T23:52:40+03:00</Time>
+    </Item>
+    <Item>
+      <Source>worm\standmask.png</Source>
+      <Name>worm\standmask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\worm\standmask.xnb</Output>
+      <Time>2016-03-28T23:55:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>teddy\walkmask.png</Source>
+      <Name>teddy\walkmask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\teddy\walkmask.xnb</Output>
+      <Time>2016-03-29T00:02:50+03:00</Time>
+    </Item>
+    <Item>
+      <Source>teddy\standmask.png</Source>
+      <Name>teddy\standmask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\teddy\standmask.xnb</Output>
+      <Time>2016-03-29T00:05:56+03:00</Time>
+    </Item>
+    <Item>
+      <Source>teddy\jumpmask.png</Source>
+      <Name>teddy\jumpmask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\teddy\jumpmask.xnb</Output>
+      <Time>2016-03-29T00:07:48+03:00</Time>
+    </Item>
+    <Item>
+      <Source>player\walkmask.png</Source>
+      <Name>player\walkmask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player\walkmask.xnb</Output>
+      <Time>2016-03-29T00:21:48+03:00</Time>
+    </Item>
+    <Item>
+      <Source>player\pronemask.png</Source>
+      <Name>player\pronemask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player\pronemask.xnb</Output>
+      <Time>2016-04-01T14:20:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>player\onRopemask.png</Source>
+      <Name>player\onRopemask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player\onRopemask.xnb</Output>
+      <Time>2016-03-29T00:26:30+03:00</Time>
+    </Item>
+    <Item>
+      <Source>player\jumpmask.png</Source>
+      <Name>player\jumpmask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player\jumpmask.xnb</Output>
+      <Time>2016-03-29T00:28:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>player\standmask.png</Source>
+      <Name>player\standmask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player\standmask.xnb</Output>
+      <Time>2016-03-29T00:33:52+03:00</Time>
+    </Item>
+    <Item>
+      <Source>player\stab1mask.png</Source>
+      <Name>player\stab1mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player\stab1mask.xnb</Output>
+      <Time>2016-03-29T00:56:28+03:00</Time>
+    </Item>
+    <Item>
+      <Source>player\stab2mask.png</Source>
+      <Name>player\stab2mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player\stab2mask.xnb</Output>
+      <Time>2016-03-29T00:58:28+03:00</Time>
+    </Item>
+    <Item>
+      <Source>player\stab3mask.png</Source>
+      <Name>player\stab3mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player\stab3mask.xnb</Output>
+      <Time>2016-03-29T01:00:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>player\swing1mask.png</Source>
+      <Name>player\swing1mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player\swing1mask.xnb</Output>
+      <Time>2016-03-29T01:02:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>player\swing2mask.png</Source>
+      <Name>player\swing2mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player\swing2mask.xnb</Output>
+      <Time>2016-03-29T01:05:16+03:00</Time>
+    </Item>
+    <Item>
+      <Source>player\swing3mask.png</Source>
+      <Name>player\swing3mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player\swing3mask.xnb</Output>
+      <Time>2016-03-29T01:07:16+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Hwarang\equipment.png</Source>
+      <Name>Hwarang\equipment</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Hwarang\equipment.xnb</Output>
+      <Time>2016-04-01T12:39:56+03:00</Time>
+    </Item>
+    <Item>
+      <Source>characterGUI\equipment.png</Source>
+      <Name>characterGUI\equipment</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\characterGUI\equipment.xnb</Output>
+      <Time>2016-05-13T14:46:00+03:00</Time>
+    </Item>
+    <Item>
+      <Source>characterGUI\bag.png</Source>
+      <Name>characterGUI\bag</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\characterGUI\bag.xnb</Output>
+      <Time>2016-04-12T18:16:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>menu\main.png</Source>
+      <Name>menu\main</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\menu\main.xnb</Output>
+      <Time>2016-04-03T19:41:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>characterGUI\shop.png</Source>
+      <Name>characterGUI\shop</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\characterGUI\shop.xnb</Output>
+      <Time>2016-05-13T17:31:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Scorpio\alert.png</Source>
+      <Name>Scorpio\alert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Scorpio\alert.xnb</Output>
+      <Time>2016-04-11T08:51:26+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Scorpio\jump.png</Source>
+      <Name>Scorpio\jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Scorpio\jump.xnb</Output>
+      <Time>2016-04-11T08:51:26+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Scorpio\onRope.png</Source>
+      <Name>Scorpio\onRope</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Scorpio\onRope.xnb</Output>
+      <Time>2016-04-11T08:51:26+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Scorpio\prone.png</Source>
+      <Name>Scorpio\prone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Scorpio\prone.xnb</Output>
+      <Time>2016-04-11T08:51:26+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Scorpio\stab1.png</Source>
+      <Name>Scorpio\stab1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Scorpio\stab1.xnb</Output>
+      <Time>2016-04-11T08:51:26+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Scorpio\stab2.png</Source>
+      <Name>Scorpio\stab2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Scorpio\stab2.xnb</Output>
+      <Time>2016-04-11T08:51:26+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Scorpio\stab3.png</Source>
+      <Name>Scorpio\stab3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Scorpio\stab3.xnb</Output>
+      <Time>2016-04-11T08:51:26+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Scorpio\stand.png</Source>
+      <Name>Scorpio\stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Scorpio\stand.xnb</Output>
+      <Time>2016-04-11T08:51:26+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Scorpio\swing1.png</Source>
+      <Name>Scorpio\swing1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Scorpio\swing1.xnb</Output>
+      <Time>2016-04-11T08:51:26+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Scorpio\swing2.png</Source>
+      <Name>Scorpio\swing2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Scorpio\swing2.xnb</Output>
+      <Time>2016-04-11T08:51:26+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Scorpio\swing3.png</Source>
+      <Name>Scorpio\swing3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Scorpio\swing3.xnb</Output>
+      <Time>2016-04-11T08:51:26+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Scorpio\walk.png</Source>
+      <Name>Scorpio\walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Scorpio\walk.xnb</Output>
+      <Time>2016-04-11T08:51:26+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Scorpio\equipment.png</Source>
+      <Name>Scorpio\equipment</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Scorpio\equipment.xnb</Output>
+      <Time>2016-04-11T09:04:14+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Corporal\alert.png</Source>
+      <Name>Corporal\alert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Corporal\alert.xnb</Output>
+      <Time>2016-04-11T15:54:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Corporal\equipment.png</Source>
+      <Name>Corporal\equipment</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Corporal\equipment.xnb</Output>
+      <Time>2016-04-11T15:54:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Corporal\jump.png</Source>
+      <Name>Corporal\jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Corporal\jump.xnb</Output>
+      <Time>2016-04-11T15:54:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Corporal\onRope.png</Source>
+      <Name>Corporal\onRope</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Corporal\onRope.xnb</Output>
+      <Time>2016-04-11T15:54:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Corporal\prone.png</Source>
+      <Name>Corporal\prone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Corporal\prone.xnb</Output>
+      <Time>2016-04-11T15:54:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Corporal\stab1.png</Source>
+      <Name>Corporal\stab1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Corporal\stab1.xnb</Output>
+      <Time>2016-04-11T15:54:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Corporal\stab2.png</Source>
+      <Name>Corporal\stab2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Corporal\stab2.xnb</Output>
+      <Time>2016-04-11T15:54:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Corporal\stab3.png</Source>
+      <Name>Corporal\stab3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Corporal\stab3.xnb</Output>
+      <Time>2016-04-11T15:54:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Corporal\stand.png</Source>
+      <Name>Corporal\stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Corporal\stand.xnb</Output>
+      <Time>2016-04-11T15:55:56+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Corporal\swing1.png</Source>
+      <Name>Corporal\swing1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Corporal\swing1.xnb</Output>
+      <Time>2016-04-11T15:54:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Corporal\swing2.png</Source>
+      <Name>Corporal\swing2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Corporal\swing2.xnb</Output>
+      <Time>2016-04-11T15:54:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Corporal\swing3.png</Source>
+      <Name>Corporal\swing3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Corporal\swing3.xnb</Output>
+      <Time>2016-04-11T15:54:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Corporal\walk.png</Source>
+      <Name>Corporal\walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Corporal\walk.xnb</Output>
+      <Time>2016-04-11T15:54:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Jangoon\alert.png</Source>
+      <Name>Jangoon\alert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Jangoon\alert.xnb</Output>
+      <Time>2016-04-11T16:53:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Jangoon\jump.png</Source>
+      <Name>Jangoon\jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Jangoon\jump.xnb</Output>
+      <Time>2016-04-11T16:53:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Jangoon\onRope.png</Source>
+      <Name>Jangoon\onRope</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Jangoon\onRope.xnb</Output>
+      <Time>2016-04-11T16:53:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Jangoon\prone.png</Source>
+      <Name>Jangoon\prone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Jangoon\prone.xnb</Output>
+      <Time>2016-04-11T16:53:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Jangoon\stab1.png</Source>
+      <Name>Jangoon\stab1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Jangoon\stab1.xnb</Output>
+      <Time>2016-04-11T16:53:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Jangoon\stab2.png</Source>
+      <Name>Jangoon\stab2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Jangoon\stab2.xnb</Output>
+      <Time>2016-04-11T16:53:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Jangoon\stab3.png</Source>
+      <Name>Jangoon\stab3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Jangoon\stab3.xnb</Output>
+      <Time>2016-04-11T16:53:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Jangoon\swing1.png</Source>
+      <Name>Jangoon\swing1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Jangoon\swing1.xnb</Output>
+      <Time>2016-04-11T16:53:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Jangoon\swing2.png</Source>
+      <Name>Jangoon\swing2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Jangoon\swing2.xnb</Output>
+      <Time>2016-04-11T16:53:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Jangoon\swing3.png</Source>
+      <Name>Jangoon\swing3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Jangoon\swing3.xnb</Output>
+      <Time>2016-04-11T16:53:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Jangoon\walk.png</Source>
+      <Name>Jangoon\walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Jangoon\walk.xnb</Output>
+      <Time>2016-04-11T16:53:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Platine\alert.png</Source>
+      <Name>Platine\alert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Platine\alert.xnb</Output>
+      <Time>2016-04-11T17:46:16+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Platine\jump.png</Source>
+      <Name>Platine\jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Platine\jump.xnb</Output>
+      <Time>2016-04-11T17:46:16+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Platine\onRope.png</Source>
+      <Name>Platine\onRope</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Platine\onRope.xnb</Output>
+      <Time>2016-04-11T17:46:16+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Platine\prone.png</Source>
+      <Name>Platine\prone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Platine\prone.xnb</Output>
+      <Time>2016-04-11T17:46:16+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Platine\stab1.png</Source>
+      <Name>Platine\stab1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Platine\stab1.xnb</Output>
+      <Time>2016-04-11T17:46:16+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Platine\stab2.png</Source>
+      <Name>Platine\stab2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Platine\stab2.xnb</Output>
+      <Time>2016-04-11T17:46:16+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Platine\stab3.png</Source>
+      <Name>Platine\stab3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Platine\stab3.xnb</Output>
+      <Time>2016-04-11T17:46:16+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Platine\equipment.png</Source>
+      <Name>Platine\equipment</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Platine\equipment.xnb</Output>
+      <Time>2016-04-11T17:48:40+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Platine\stand.png</Source>
+      <Name>Platine\stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Platine\stand.xnb</Output>
+      <Time>2016-04-11T17:56:40+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Platine\swing1.png</Source>
+      <Name>Platine\swing1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Platine\swing1.xnb</Output>
+      <Time>2016-04-11T18:16:44+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Platine\swing2.png</Source>
+      <Name>Platine\swing2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Platine\swing2.xnb</Output>
+      <Time>2016-04-11T18:16:44+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Platine\swing3.png</Source>
+      <Name>Platine\swing3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Platine\swing3.xnb</Output>
+      <Time>2016-04-11T18:16:44+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Platine\walk.png</Source>
+      <Name>Platine\walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Platine\walk.xnb</Output>
+      <Time>2016-04-11T18:16:44+03:00</Time>
+    </Item>
+    <Item>
+      <Source>EagleEye\alert.png</Source>
+      <Name>EagleEye\alert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\EagleEye\alert.xnb</Output>
+      <Time>2016-04-11T19:26:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>EagleEye\equipment.png</Source>
+      <Name>EagleEye\equipment</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\EagleEye\equipment.xnb</Output>
+      <Time>2016-04-11T20:03:26+03:00</Time>
+    </Item>
+    <Item>
+      <Source>EagleEye\jump.png</Source>
+      <Name>EagleEye\jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\EagleEye\jump.xnb</Output>
+      <Time>2016-04-11T19:26:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>EagleEye\onRope.png</Source>
+      <Name>EagleEye\onRope</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\EagleEye\onRope.xnb</Output>
+      <Time>2016-04-11T19:26:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>EagleEye\prone.png</Source>
+      <Name>EagleEye\prone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\EagleEye\prone.xnb</Output>
+      <Time>2016-04-11T19:26:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>EagleEye\stab1.png</Source>
+      <Name>EagleEye\stab1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\EagleEye\stab1.xnb</Output>
+      <Time>2016-04-11T19:26:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>EagleEye\stab2.png</Source>
+      <Name>EagleEye\stab2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\EagleEye\stab2.xnb</Output>
+      <Time>2016-04-11T19:26:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>EagleEye\stab3.png</Source>
+      <Name>EagleEye\stab3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\EagleEye\stab3.xnb</Output>
+      <Time>2016-04-11T19:26:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>EagleEye\stand.png</Source>
+      <Name>EagleEye\stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\EagleEye\stand.xnb</Output>
+      <Time>2016-04-11T19:26:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>EagleEye\swing1.png</Source>
+      <Name>EagleEye\swing1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\EagleEye\swing1.xnb</Output>
+      <Time>2016-04-11T19:26:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>EagleEye\swing2.png</Source>
+      <Name>EagleEye\swing2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\EagleEye\swing2.xnb</Output>
+      <Time>2016-04-11T19:26:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>EagleEye\swing3.png</Source>
+      <Name>EagleEye\swing3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\EagleEye\swing3.xnb</Output>
+      <Time>2016-04-11T19:26:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>EagleEye\walk.png</Source>
+      <Name>EagleEye\walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\EagleEye\walk.xnb</Output>
+      <Time>2016-04-11T19:26:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Jangoon\equipment.png</Source>
+      <Name>Jangoon\equipment</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Jangoon\equipment.xnb</Output>
+      <Time>2016-04-11T20:34:02+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Jangoon\stand.png</Source>
+      <Name>Jangoon\stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Jangoon\stand.xnb</Output>
+      <Time>2016-04-11T21:10:08+03:00</Time>
+    </Item>
+    <Item>
+      <Source>ball\launched.png</Source>
+      <Name>ball\launched</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\ball\launched.xnb</Output>
+      <Time>2016-04-13T18:41:58+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Coif\alert.png</Source>
+      <Name>Coif\alert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Coif\alert.xnb</Output>
+      <Time>2016-04-15T19:25:40+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Coif\jump.png</Source>
+      <Name>Coif\jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Coif\jump.xnb</Output>
+      <Time>2016-04-15T19:26:14+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Coif\onRope.png</Source>
+      <Name>Coif\onRope</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Coif\onRope.xnb</Output>
+      <Time>2016-04-13T21:03:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Coif\prone.png</Source>
+      <Name>Coif\prone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Coif\prone.xnb</Output>
+      <Time>2016-04-13T21:03:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Coif\stab1.png</Source>
+      <Name>Coif\stab1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Coif\stab1.xnb</Output>
+      <Time>2016-04-13T21:03:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Coif\stab2.png</Source>
+      <Name>Coif\stab2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Coif\stab2.xnb</Output>
+      <Time>2016-04-13T21:03:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Coif\stab3.png</Source>
+      <Name>Coif\stab3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Coif\stab3.xnb</Output>
+      <Time>2016-04-13T21:03:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Coif\stand.png</Source>
+      <Name>Coif\stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Coif\stand.xnb</Output>
+      <Time>2016-04-13T21:03:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Coif\swing1.png</Source>
+      <Name>Coif\swing1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Coif\swing1.xnb</Output>
+      <Time>2016-04-13T21:03:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Coif\swing2.png</Source>
+      <Name>Coif\swing2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Coif\swing2.xnb</Output>
+      <Time>2016-04-13T21:03:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Coif\swing3.png</Source>
+      <Name>Coif\swing3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Coif\swing3.xnb</Output>
+      <Time>2016-04-13T21:03:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Coif\walk.png</Source>
+      <Name>Coif\walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Coif\walk.xnb</Output>
+      <Time>2016-04-13T21:03:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Coif\equipment.png</Source>
+      <Name>Coif\equipment</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Coif\equipment.xnb</Output>
+      <Time>2016-04-13T21:05:42+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Crusader\alert.png</Source>
+      <Name>Crusader\alert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Crusader\alert.xnb</Output>
+      <Time>2016-04-14T02:20:56+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Crusader\equipment.png</Source>
+      <Name>Crusader\equipment</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Crusader\equipment.xnb</Output>
+      <Time>2016-04-14T02:20:56+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Crusader\jump.png</Source>
+      <Name>Crusader\jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Crusader\jump.xnb</Output>
+      <Time>2016-04-14T02:20:56+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Crusader\onRope.png</Source>
+      <Name>Crusader\onRope</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Crusader\onRope.xnb</Output>
+      <Time>2016-04-14T02:20:56+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Crusader\prone.png</Source>
+      <Name>Crusader\prone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Crusader\prone.xnb</Output>
+      <Time>2016-04-14T02:20:56+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Crusader\stab1.png</Source>
+      <Name>Crusader\stab1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Crusader\stab1.xnb</Output>
+      <Time>2016-04-14T02:20:56+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Crusader\stab2.png</Source>
+      <Name>Crusader\stab2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Crusader\stab2.xnb</Output>
+      <Time>2016-04-14T02:20:56+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Crusader\stab3.png</Source>
+      <Name>Crusader\stab3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Crusader\stab3.xnb</Output>
+      <Time>2016-04-14T02:20:56+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Crusader\stand.png</Source>
+      <Name>Crusader\stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Crusader\stand.xnb</Output>
+      <Time>2016-04-14T02:20:56+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Crusader\swing1.png</Source>
+      <Name>Crusader\swing1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Crusader\swing1.xnb</Output>
+      <Time>2016-04-14T02:20:56+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Crusader\swing2.png</Source>
+      <Name>Crusader\swing2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Crusader\swing2.xnb</Output>
+      <Time>2016-04-14T02:20:56+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Crusader\swing3.png</Source>
+      <Name>Crusader\swing3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Crusader\swing3.xnb</Output>
+      <Time>2016-04-14T02:20:56+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Crusader\walk.png</Source>
+      <Name>Crusader\walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Crusader\walk.xnb</Output>
+      <Time>2016-04-14T02:20:56+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Walker\alert.png</Source>
+      <Name>Walker\alert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Walker\alert.xnb</Output>
+      <Time>2016-04-14T02:56:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Walker\equipment.png</Source>
+      <Name>Walker\equipment</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Walker\equipment.xnb</Output>
+      <Time>2016-04-14T03:29:56+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Walker\jump.png</Source>
+      <Name>Walker\jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Walker\jump.xnb</Output>
+      <Time>2016-04-14T02:56:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Walker\onRope.png</Source>
+      <Name>Walker\onRope</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Walker\onRope.xnb</Output>
+      <Time>2016-04-14T02:56:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Walker\prone.png</Source>
+      <Name>Walker\prone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Walker\prone.xnb</Output>
+      <Time>2016-04-14T02:56:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Walker\stab1.png</Source>
+      <Name>Walker\stab1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Walker\stab1.xnb</Output>
+      <Time>2016-04-14T02:56:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Walker\stab2.png</Source>
+      <Name>Walker\stab2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Walker\stab2.xnb</Output>
+      <Time>2016-04-14T02:56:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Walker\stab3.png</Source>
+      <Name>Walker\stab3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Walker\stab3.xnb</Output>
+      <Time>2016-04-14T02:56:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Walker\stand.png</Source>
+      <Name>Walker\stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Walker\stand.xnb</Output>
+      <Time>2016-04-14T02:56:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Walker\swing1.png</Source>
+      <Name>Walker\swing1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Walker\swing1.xnb</Output>
+      <Time>2016-04-14T02:56:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Walker\swing2.png</Source>
+      <Name>Walker\swing2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Walker\swing2.xnb</Output>
+      <Time>2016-04-14T02:56:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Walker\swing3.png</Source>
+      <Name>Walker\swing3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Walker\swing3.xnb</Output>
+      <Time>2016-04-14T02:56:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Walker\walk.png</Source>
+      <Name>Walker\walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Walker\walk.xnb</Output>
+      <Time>2016-04-14T02:56:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Jouster\alert.png</Source>
+      <Name>Jouster\alert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Jouster\alert.xnb</Output>
+      <Time>2016-04-14T03:27:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Jouster\equipment.png</Source>
+      <Name>Jouster\equipment</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Jouster\equipment.xnb</Output>
+      <Time>2016-04-14T03:27:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Jouster\jump.png</Source>
+      <Name>Jouster\jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Jouster\jump.xnb</Output>
+      <Time>2016-04-14T03:27:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Jouster\onRope.png</Source>
+      <Name>Jouster\onRope</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Jouster\onRope.xnb</Output>
+      <Time>2016-04-14T03:27:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Jouster\prone.png</Source>
+      <Name>Jouster\prone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Jouster\prone.xnb</Output>
+      <Time>2016-04-14T03:27:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Jouster\stab1.png</Source>
+      <Name>Jouster\stab1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Jouster\stab1.xnb</Output>
+      <Time>2016-04-14T03:27:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Jouster\stab2.png</Source>
+      <Name>Jouster\stab2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Jouster\stab2.xnb</Output>
+      <Time>2016-04-14T03:27:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Jouster\stab3.png</Source>
+      <Name>Jouster\stab3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Jouster\stab3.xnb</Output>
+      <Time>2016-04-14T03:27:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Jouster\stand.png</Source>
+      <Name>Jouster\stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Jouster\stand.xnb</Output>
+      <Time>2016-04-14T03:27:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Jouster\swing1.png</Source>
+      <Name>Jouster\swing1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Jouster\swing1.xnb</Output>
+      <Time>2016-04-14T03:27:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Jouster\swing2.png</Source>
+      <Name>Jouster\swing2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Jouster\swing2.xnb</Output>
+      <Time>2016-04-14T03:27:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Jouster\swing3.png</Source>
+      <Name>Jouster\swing3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Jouster\swing3.xnb</Output>
+      <Time>2016-04-14T03:27:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Jouster\walk.png</Source>
+      <Name>Jouster\walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Jouster\walk.xnb</Output>
+      <Time>2016-04-14T03:27:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sparta\alert.png</Source>
+      <Name>Sparta\alert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Sparta\alert.xnb</Output>
+      <Time>2016-04-14T22:42:42+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sparta\equipment.png</Source>
+      <Name>Sparta\equipment</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Sparta\equipment.xnb</Output>
+      <Time>2016-04-14T22:42:42+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sparta\jump.png</Source>
+      <Name>Sparta\jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Sparta\jump.xnb</Output>
+      <Time>2016-04-14T22:42:42+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sparta\onRope.png</Source>
+      <Name>Sparta\onRope</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Sparta\onRope.xnb</Output>
+      <Time>2016-04-14T22:42:42+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sparta\prone.png</Source>
+      <Name>Sparta\prone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Sparta\prone.xnb</Output>
+      <Time>2016-04-14T22:42:42+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sparta\stab1.png</Source>
+      <Name>Sparta\stab1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Sparta\stab1.xnb</Output>
+      <Time>2016-04-14T22:42:42+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sparta\stab2.png</Source>
+      <Name>Sparta\stab2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Sparta\stab2.xnb</Output>
+      <Time>2016-04-14T22:42:42+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sparta\stab3.png</Source>
+      <Name>Sparta\stab3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Sparta\stab3.xnb</Output>
+      <Time>2016-04-14T22:42:42+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sparta\stand.png</Source>
+      <Name>Sparta\stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Sparta\stand.xnb</Output>
+      <Time>2016-04-14T22:42:42+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sparta\swing1.png</Source>
+      <Name>Sparta\swing1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Sparta\swing1.xnb</Output>
+      <Time>2016-04-14T22:42:42+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sparta\swing2.png</Source>
+      <Name>Sparta\swing2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Sparta\swing2.xnb</Output>
+      <Time>2016-04-14T22:42:42+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sparta\swing3.png</Source>
+      <Name>Sparta\swing3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Sparta\swing3.xnb</Output>
+      <Time>2016-04-14T22:42:42+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Sparta\walk.png</Source>
+      <Name>Sparta\walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Sparta\walk.xnb</Output>
+      <Time>2016-04-14T22:42:42+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Moss\alert.png</Source>
+      <Name>Moss\alert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Moss\alert.xnb</Output>
+      <Time>2016-04-14T23:25:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Moss\equipment.png</Source>
+      <Name>Moss\equipment</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Moss\equipment.xnb</Output>
+      <Time>2016-04-14T23:25:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Moss\jump.png</Source>
+      <Name>Moss\jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Moss\jump.xnb</Output>
+      <Time>2016-04-14T23:25:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Moss\onRope.png</Source>
+      <Name>Moss\onRope</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Moss\onRope.xnb</Output>
+      <Time>2016-04-14T23:25:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Moss\prone.png</Source>
+      <Name>Moss\prone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Moss\prone.xnb</Output>
+      <Time>2016-04-14T23:25:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Moss\stab1.png</Source>
+      <Name>Moss\stab1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Moss\stab1.xnb</Output>
+      <Time>2016-04-14T23:25:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Moss\stab2.png</Source>
+      <Name>Moss\stab2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Moss\stab2.xnb</Output>
+      <Time>2016-04-14T23:25:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Moss\stab3.png</Source>
+      <Name>Moss\stab3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Moss\stab3.xnb</Output>
+      <Time>2016-04-14T23:25:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Moss\stand.png</Source>
+      <Name>Moss\stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Moss\stand.xnb</Output>
+      <Time>2016-04-14T23:25:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Moss\swing1.png</Source>
+      <Name>Moss\swing1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Moss\swing1.xnb</Output>
+      <Time>2016-04-14T23:25:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Moss\swing2.png</Source>
+      <Name>Moss\swing2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Moss\swing2.xnb</Output>
+      <Time>2016-04-14T23:25:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Moss\swing3.png</Source>
+      <Name>Moss\swing3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Moss\swing3.xnb</Output>
+      <Time>2016-04-14T23:25:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Moss\walk.png</Source>
+      <Name>Moss\walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Moss\walk.xnb</Output>
+      <Time>2016-04-14T23:25:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Trigger\alert.png</Source>
+      <Name>Trigger\alert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Trigger\alert.xnb</Output>
+      <Time>2016-04-15T01:43:02+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Trigger\equipment.png</Source>
+      <Name>Trigger\equipment</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Trigger\equipment.xnb</Output>
+      <Time>2016-04-15T01:43:02+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Trigger\jump.png</Source>
+      <Name>Trigger\jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Trigger\jump.xnb</Output>
+      <Time>2016-04-15T01:43:02+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Trigger\onRope.png</Source>
+      <Name>Trigger\onRope</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Trigger\onRope.xnb</Output>
+      <Time>2016-04-15T01:43:02+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Trigger\prone.png</Source>
+      <Name>Trigger\prone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Trigger\prone.xnb</Output>
+      <Time>2016-04-15T01:43:02+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Trigger\stab1.png</Source>
+      <Name>Trigger\stab1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Trigger\stab1.xnb</Output>
+      <Time>2016-04-15T01:43:02+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Trigger\stab2.png</Source>
+      <Name>Trigger\stab2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Trigger\stab2.xnb</Output>
+      <Time>2016-04-15T01:43:02+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Trigger\stab3.png</Source>
+      <Name>Trigger\stab3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Trigger\stab3.xnb</Output>
+      <Time>2016-04-15T01:43:02+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Trigger\stand.png</Source>
+      <Name>Trigger\stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Trigger\stand.xnb</Output>
+      <Time>2016-04-15T01:43:02+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Trigger\swing1.png</Source>
+      <Name>Trigger\swing1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Trigger\swing1.xnb</Output>
+      <Time>2016-04-15T01:43:02+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Trigger\swing2.png</Source>
+      <Name>Trigger\swing2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Trigger\swing2.xnb</Output>
+      <Time>2016-04-15T01:43:02+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Trigger\swing3.png</Source>
+      <Name>Trigger\swing3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Trigger\swing3.xnb</Output>
+      <Time>2016-04-15T01:43:02+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Trigger\walk.png</Source>
+      <Name>Trigger\walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Trigger\walk.xnb</Output>
+      <Time>2016-04-15T01:43:02+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Corp\alert.png</Source>
+      <Name>Corp\alert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Corp\alert.xnb</Output>
+      <Time>2016-04-15T02:30:28+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Corp\equipment.png</Source>
+      <Name>Corp\equipment</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Corp\equipment.xnb</Output>
+      <Time>2016-04-15T02:30:28+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Corp\jump.png</Source>
+      <Name>Corp\jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Corp\jump.xnb</Output>
+      <Time>2016-04-15T02:30:28+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Corp\onRope.png</Source>
+      <Name>Corp\onRope</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Corp\onRope.xnb</Output>
+      <Time>2016-04-15T02:30:28+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Corp\prone.png</Source>
+      <Name>Corp\prone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Corp\prone.xnb</Output>
+      <Time>2016-04-15T02:30:28+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Corp\stab1.png</Source>
+      <Name>Corp\stab1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Corp\stab1.xnb</Output>
+      <Time>2016-04-15T02:30:28+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Corp\stab2.png</Source>
+      <Name>Corp\stab2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Corp\stab2.xnb</Output>
+      <Time>2016-04-15T02:30:28+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Corp\stab3.png</Source>
+      <Name>Corp\stab3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Corp\stab3.xnb</Output>
+      <Time>2016-04-15T02:30:28+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Corp\stand.png</Source>
+      <Name>Corp\stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Corp\stand.xnb</Output>
+      <Time>2016-04-15T02:31:26+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Corp\swing1.png</Source>
+      <Name>Corp\swing1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Corp\swing1.xnb</Output>
+      <Time>2016-04-15T02:30:28+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Corp\swing2.png</Source>
+      <Name>Corp\swing2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Corp\swing2.xnb</Output>
+      <Time>2016-04-15T02:30:28+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Corp\swing3.png</Source>
+      <Name>Corp\swing3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Corp\swing3.xnb</Output>
+      <Time>2016-04-15T02:30:28+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Corp\walk.png</Source>
+      <Name>Corp\walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Corp\walk.xnb</Output>
+      <Time>2016-04-15T02:30:28+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Jango\alert.png</Source>
+      <Name>Jango\alert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Jango\alert.xnb</Output>
+      <Time>2016-04-15T02:58:10+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Jango\jump.png</Source>
+      <Name>Jango\jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Jango\jump.xnb</Output>
+      <Time>2016-04-15T02:58:10+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Jango\onRope.png</Source>
+      <Name>Jango\onRope</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Jango\onRope.xnb</Output>
+      <Time>2016-04-15T02:58:10+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Jango\prone.png</Source>
+      <Name>Jango\prone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Jango\prone.xnb</Output>
+      <Time>2016-04-15T02:58:10+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Jango\stab1.png</Source>
+      <Name>Jango\stab1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Jango\stab1.xnb</Output>
+      <Time>2016-04-15T02:58:10+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Jango\stab2.png</Source>
+      <Name>Jango\stab2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Jango\stab2.xnb</Output>
+      <Time>2016-04-15T02:58:10+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Jango\stab3.png</Source>
+      <Name>Jango\stab3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Jango\stab3.xnb</Output>
+      <Time>2016-04-15T02:58:10+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Jango\stand.png</Source>
+      <Name>Jango\stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Jango\stand.xnb</Output>
+      <Time>2016-04-15T02:58:10+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Jango\swing1.png</Source>
+      <Name>Jango\swing1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Jango\swing1.xnb</Output>
+      <Time>2016-04-15T02:58:10+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Jango\swing2.png</Source>
+      <Name>Jango\swing2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Jango\swing2.xnb</Output>
+      <Time>2016-04-15T02:58:10+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Jango\swing3.png</Source>
+      <Name>Jango\swing3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Jango\swing3.xnb</Output>
+      <Time>2016-04-15T02:58:10+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Jango\walk.png</Source>
+      <Name>Jango\walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Jango\walk.xnb</Output>
+      <Time>2016-04-15T02:58:10+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Jango\equipment.png</Source>
+      <Name>Jango\equipment</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Jango\equipment.xnb</Output>
+      <Time>2016-04-15T02:59:54+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Martial\alert.png</Source>
+      <Name>Martial\alert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Martial\alert.xnb</Output>
+      <Time>2016-04-15T03:21:30+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Martial\equipment.png</Source>
+      <Name>Martial\equipment</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Martial\equipment.xnb</Output>
+      <Time>2016-04-15T03:21:30+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Martial\jump.png</Source>
+      <Name>Martial\jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Martial\jump.xnb</Output>
+      <Time>2016-04-15T03:21:30+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Martial\onRope.png</Source>
+      <Name>Martial\onRope</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Martial\onRope.xnb</Output>
+      <Time>2016-04-15T03:21:30+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Martial\prone.png</Source>
+      <Name>Martial\prone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Martial\prone.xnb</Output>
+      <Time>2016-04-15T03:21:30+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Martial\stab1.png</Source>
+      <Name>Martial\stab1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Martial\stab1.xnb</Output>
+      <Time>2016-04-15T03:21:30+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Martial\stab2.png</Source>
+      <Name>Martial\stab2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Martial\stab2.xnb</Output>
+      <Time>2016-04-15T03:21:30+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Martial\stab3.png</Source>
+      <Name>Martial\stab3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Martial\stab3.xnb</Output>
+      <Time>2016-04-15T03:21:30+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Martial\stand.png</Source>
+      <Name>Martial\stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Martial\stand.xnb</Output>
+      <Time>2016-04-15T03:21:30+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Martial\swing1.png</Source>
+      <Name>Martial\swing1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Martial\swing1.xnb</Output>
+      <Time>2016-04-15T03:21:30+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Martial\swing2.png</Source>
+      <Name>Martial\swing2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Martial\swing2.xnb</Output>
+      <Time>2016-04-15T03:21:30+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Martial\swing3.png</Source>
+      <Name>Martial\swing3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Martial\swing3.xnb</Output>
+      <Time>2016-04-15T03:21:30+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Martial\walk.png</Source>
+      <Name>Martial\walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Martial\walk.xnb</Output>
+      <Time>2016-04-15T03:21:30+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Trixter\alert.png</Source>
+      <Name>Trixter\alert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Trixter\alert.xnb</Output>
+      <Time>2016-04-15T03:46:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Trixter\equipment.png</Source>
+      <Name>Trixter\equipment</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Trixter\equipment.xnb</Output>
+      <Time>2016-04-15T03:46:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Trixter\jump.png</Source>
+      <Name>Trixter\jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Trixter\jump.xnb</Output>
+      <Time>2016-04-15T03:46:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Trixter\onRope.png</Source>
+      <Name>Trixter\onRope</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Trixter\onRope.xnb</Output>
+      <Time>2016-04-15T03:46:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Trixter\prone.png</Source>
+      <Name>Trixter\prone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Trixter\prone.xnb</Output>
+      <Time>2016-04-15T03:46:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Trixter\stab1.png</Source>
+      <Name>Trixter\stab1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Trixter\stab1.xnb</Output>
+      <Time>2016-04-15T03:46:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Trixter\stab2.png</Source>
+      <Name>Trixter\stab2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Trixter\stab2.xnb</Output>
+      <Time>2016-04-15T03:46:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Trixter\stab3.png</Source>
+      <Name>Trixter\stab3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Trixter\stab3.xnb</Output>
+      <Time>2016-04-15T03:46:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Trixter\stand.png</Source>
+      <Name>Trixter\stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Trixter\stand.xnb</Output>
+      <Time>2016-04-15T03:46:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Trixter\swing1.png</Source>
+      <Name>Trixter\swing1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Trixter\swing1.xnb</Output>
+      <Time>2016-04-15T03:46:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Trixter\swing2.png</Source>
+      <Name>Trixter\swing2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Trixter\swing2.xnb</Output>
+      <Time>2016-04-15T03:46:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Trixter\swing3.png</Source>
+      <Name>Trixter\swing3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Trixter\swing3.xnb</Output>
+      <Time>2016-04-15T03:46:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Trixter\walk.png</Source>
+      <Name>Trixter\walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Trixter\walk.xnb</Output>
+      <Time>2016-04-15T03:46:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Plat\alert.png</Source>
+      <Name>Plat\alert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Plat\alert.xnb</Output>
+      <Time>2016-04-15T15:51:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Plat\equipment.png</Source>
+      <Name>Plat\equipment</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Plat\equipment.xnb</Output>
+      <Time>2016-04-15T15:51:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Plat\jump.png</Source>
+      <Name>Plat\jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Plat\jump.xnb</Output>
+      <Time>2016-04-15T15:51:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Plat\onRope.png</Source>
+      <Name>Plat\onRope</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Plat\onRope.xnb</Output>
+      <Time>2016-04-15T15:51:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Plat\prone.png</Source>
+      <Name>Plat\prone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Plat\prone.xnb</Output>
+      <Time>2016-04-15T15:51:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Plat\stab1.png</Source>
+      <Name>Plat\stab1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Plat\stab1.xnb</Output>
+      <Time>2016-04-15T15:51:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Plat\stab2.png</Source>
+      <Name>Plat\stab2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Plat\stab2.xnb</Output>
+      <Time>2016-04-15T15:51:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Plat\stab3.png</Source>
+      <Name>Plat\stab3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Plat\stab3.xnb</Output>
+      <Time>2016-04-15T15:51:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Plat\stand.png</Source>
+      <Name>Plat\stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Plat\stand.xnb</Output>
+      <Time>2016-04-15T15:51:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Plat\swing1.png</Source>
+      <Name>Plat\swing1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Plat\swing1.xnb</Output>
+      <Time>2016-04-15T15:51:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Plat\swing2.png</Source>
+      <Name>Plat\swing2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Plat\swing2.xnb</Output>
+      <Time>2016-04-15T15:51:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Plat\swing3.png</Source>
+      <Name>Plat\swing3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Plat\swing3.xnb</Output>
+      <Time>2016-04-15T15:51:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Scorp\alert.png</Source>
+      <Name>Scorp\alert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Scorp\alert.xnb</Output>
+      <Time>2016-04-15T15:51:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Scorp\equipment.png</Source>
+      <Name>Scorp\equipment</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Scorp\equipment.xnb</Output>
+      <Time>2016-04-15T15:51:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Scorp\jump.png</Source>
+      <Name>Scorp\jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Scorp\jump.xnb</Output>
+      <Time>2016-04-15T15:51:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Scorp\onRope.png</Source>
+      <Name>Scorp\onRope</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Scorp\onRope.xnb</Output>
+      <Time>2016-04-15T15:51:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Scorp\prone.png</Source>
+      <Name>Scorp\prone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Scorp\prone.xnb</Output>
+      <Time>2016-04-15T15:51:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Scorp\stab1.png</Source>
+      <Name>Scorp\stab1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Scorp\stab1.xnb</Output>
+      <Time>2016-04-15T15:51:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Scorp\stab2.png</Source>
+      <Name>Scorp\stab2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Scorp\stab2.xnb</Output>
+      <Time>2016-04-15T15:51:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Scorp\stab3.png</Source>
+      <Name>Scorp\stab3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Scorp\stab3.xnb</Output>
+      <Time>2016-04-15T15:51:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Scorp\stand.png</Source>
+      <Name>Scorp\stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Scorp\stand.xnb</Output>
+      <Time>2016-04-15T15:51:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Scorp\swing1.png</Source>
+      <Name>Scorp\swing1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Scorp\swing1.xnb</Output>
+      <Time>2016-04-15T15:51:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Scorp\swing2.png</Source>
+      <Name>Scorp\swing2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Scorp\swing2.xnb</Output>
+      <Time>2016-04-15T15:51:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Scorp\swing3.png</Source>
+      <Name>Scorp\swing3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Scorp\swing3.xnb</Output>
+      <Time>2016-04-15T15:51:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Scorp\walk.png</Source>
+      <Name>Scorp\walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Scorp\walk.xnb</Output>
+      <Time>2016-04-15T15:51:46+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Dragon\alert.png</Source>
+      <Name>Dragon\alert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Dragon\alert.xnb</Output>
+      <Time>2016-04-15T18:06:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Dragon\equipment.png</Source>
+      <Name>Dragon\equipment</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Dragon\equipment.xnb</Output>
+      <Time>2016-04-15T18:06:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Dragon\jump.png</Source>
+      <Name>Dragon\jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Dragon\jump.xnb</Output>
+      <Time>2016-04-15T18:06:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Dragon\onRope.png</Source>
+      <Name>Dragon\onRope</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Dragon\onRope.xnb</Output>
+      <Time>2016-04-15T18:06:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Dragon\prone.png</Source>
+      <Name>Dragon\prone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Dragon\prone.xnb</Output>
+      <Time>2016-04-15T18:06:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Dragon\stab1.png</Source>
+      <Name>Dragon\stab1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Dragon\stab1.xnb</Output>
+      <Time>2016-04-15T18:13:08+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Dragon\stab2.png</Source>
+      <Name>Dragon\stab2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Dragon\stab2.xnb</Output>
+      <Time>2016-04-15T18:12:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Dragon\stab3.png</Source>
+      <Name>Dragon\stab3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Dragon\stab3.xnb</Output>
+      <Time>2016-04-15T18:06:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Dragon\stand.png</Source>
+      <Name>Dragon\stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Dragon\stand.xnb</Output>
+      <Time>2016-04-15T18:09:22+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Dragon\swing1.png</Source>
+      <Name>Dragon\swing1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Dragon\swing1.xnb</Output>
+      <Time>2016-04-15T18:14:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Dragon\swing2.png</Source>
+      <Name>Dragon\swing2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Dragon\swing2.xnb</Output>
+      <Time>2016-04-15T18:06:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Dragon\swing3.png</Source>
+      <Name>Dragon\swing3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Dragon\swing3.xnb</Output>
+      <Time>2016-04-15T18:06:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Dragon\walk.png</Source>
+      <Name>Dragon\walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Dragon\walk.xnb</Output>
+      <Time>2016-04-15T18:06:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Plat\walk.png</Source>
+      <Name>Plat\walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Plat\walk.xnb</Output>
+      <Time>2016-04-15T18:07:02+03:00</Time>
+    </Item>
+    <Item>
+      <Source>player_bald\alert.png</Source>
+      <Name>player_bald\alert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player_bald\alert.xnb</Output>
+      <Time>2016-04-15T18:42:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>player_bald\jump.png</Source>
+      <Name>player_bald\jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player_bald\jump.xnb</Output>
+      <Time>2016-04-15T18:42:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>player_bald\onRope.png</Source>
+      <Name>player_bald\onRope</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player_bald\onRope.xnb</Output>
+      <Time>2016-04-15T18:42:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>player_bald\prone.png</Source>
+      <Name>player_bald\prone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player_bald\prone.xnb</Output>
+      <Time>2016-04-15T18:42:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>player_bald\stab1.png</Source>
+      <Name>player_bald\stab1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player_bald\stab1.xnb</Output>
+      <Time>2016-04-15T18:42:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>player_bald\stab2.png</Source>
+      <Name>player_bald\stab2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player_bald\stab2.xnb</Output>
+      <Time>2016-04-15T18:42:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>player_bald\stab3.png</Source>
+      <Name>player_bald\stab3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player_bald\stab3.xnb</Output>
+      <Time>2016-04-15T18:42:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>player_bald\stand.png</Source>
+      <Name>player_bald\stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player_bald\stand.xnb</Output>
+      <Time>2016-04-15T18:42:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>player_bald\swing1.png</Source>
+      <Name>player_bald\swing1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player_bald\swing1.xnb</Output>
+      <Time>2016-04-15T18:42:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>player_bald\swing2.png</Source>
+      <Name>player_bald\swing2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player_bald\swing2.xnb</Output>
+      <Time>2016-04-15T18:42:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>player_bald\swing3.png</Source>
+      <Name>player_bald\swing3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player_bald\swing3.xnb</Output>
+      <Time>2016-04-15T18:42:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>player_bald\walk.png</Source>
+      <Name>player_bald\walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player_bald\walk.xnb</Output>
+      <Time>2016-04-15T18:42:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>player_bald\jumpmask.png</Source>
+      <Name>player_bald\jumpmask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player_bald\jumpmask.xnb</Output>
+      <Time>2016-04-15T18:43:10+03:00</Time>
+    </Item>
+    <Item>
+      <Source>player_bald\onRopemask.png</Source>
+      <Name>player_bald\onRopemask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player_bald\onRopemask.xnb</Output>
+      <Time>2016-04-15T18:43:10+03:00</Time>
+    </Item>
+    <Item>
+      <Source>player_bald\pronemask.png</Source>
+      <Name>player_bald\pronemask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player_bald\pronemask.xnb</Output>
+      <Time>2016-04-15T18:43:10+03:00</Time>
+    </Item>
+    <Item>
+      <Source>player_bald\stab1mask.png</Source>
+      <Name>player_bald\stab1mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player_bald\stab1mask.xnb</Output>
+      <Time>2016-04-15T18:43:10+03:00</Time>
+    </Item>
+    <Item>
+      <Source>player_bald\stab2mask.png</Source>
+      <Name>player_bald\stab2mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player_bald\stab2mask.xnb</Output>
+      <Time>2016-04-15T18:43:10+03:00</Time>
+    </Item>
+    <Item>
+      <Source>player_bald\stab3mask.png</Source>
+      <Name>player_bald\stab3mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player_bald\stab3mask.xnb</Output>
+      <Time>2016-04-15T18:43:10+03:00</Time>
+    </Item>
+    <Item>
+      <Source>player_bald\standmask.png</Source>
+      <Name>player_bald\standmask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player_bald\standmask.xnb</Output>
+      <Time>2016-04-15T18:43:10+03:00</Time>
+    </Item>
+    <Item>
+      <Source>player_bald\swing1mask.png</Source>
+      <Name>player_bald\swing1mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player_bald\swing1mask.xnb</Output>
+      <Time>2016-04-15T18:43:10+03:00</Time>
+    </Item>
+    <Item>
+      <Source>player_bald\swing2mask.png</Source>
+      <Name>player_bald\swing2mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player_bald\swing2mask.xnb</Output>
+      <Time>2016-04-15T18:43:10+03:00</Time>
+    </Item>
+    <Item>
+      <Source>player_bald\swing3mask.png</Source>
+      <Name>player_bald\swing3mask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player_bald\swing3mask.xnb</Output>
+      <Time>2016-04-15T18:43:10+03:00</Time>
+    </Item>
+    <Item>
+      <Source>player_bald\walkmask.png</Source>
+      <Name>player_bald\walkmask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\player_bald\walkmask.xnb</Output>
+      <Time>2016-04-15T18:43:10+03:00</Time>
+    </Item>
+    <Item>
+      <Source>ball\launchedmask.png</Source>
+      <Name>ball\launchedmask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\ball\launchedmask.xnb</Output>
+      <Time>2016-04-17T00:04:02+03:00</Time>
+    </Item>
+    <Item>
+      <Source>ball\hit.png</Source>
+      <Name>ball\hit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\ball\hit.xnb</Output>
+      <Time>2016-04-19T02:13:50+03:00</Time>
+    </Item>
+    <Item>
+      <Source>monkey\alert.png</Source>
+      <Name>monkey\alert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\monkey\alert.xnb</Output>
+      <Time>2016-04-19T03:06:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>monkey\die.png</Source>
+      <Name>monkey\die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\monkey\die.xnb</Output>
+      <Time>2016-04-19T03:06:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>monkey\standmask.png</Source>
+      <Name>monkey\standmask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\monkey\standmask.xnb</Output>
+      <Time>2016-04-19T03:09:02+03:00</Time>
+    </Item>
+    <Item>
+      <Source>monkey\stand.png</Source>
+      <Name>monkey\stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\monkey\stand.xnb</Output>
+      <Time>2016-04-19T03:09:06+03:00</Time>
+    </Item>
+    <Item>
+      <Source>monkey\walk.png</Source>
+      <Name>monkey\walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\monkey\walk.xnb</Output>
+      <Time>2016-04-19T03:15:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>monkey\walkmask.png</Source>
+      <Name>monkey\walkmask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\monkey\walkmask.xnb</Output>
+      <Time>2016-04-19T03:15:38+03:00</Time>
+    </Item>
+    <Item>
+      <Source>monkey\jump.png</Source>
+      <Name>monkey\jump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\monkey\jump.xnb</Output>
+      <Time>2016-04-19T03:20:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>monkey\jumpmask.png</Source>
+      <Name>monkey\jumpmask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\monkey\jumpmask.xnb</Output>
+      <Time>2016-04-19T03:20:36+03:00</Time>
+    </Item>
+    <Item>
+      <Source>monkey\mobSkill.png</Source>
+      <Name>monkey\mobSkill</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\monkey\mobSkill.xnb</Output>
+      <Time>2016-04-19T03:27:14+03:00</Time>
+    </Item>
+    <Item>
+      <Source>monkey\mobSkillmask.png</Source>
+      <Name>monkey\mobSkillmask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\monkey\mobSkillmask.xnb</Output>
+      <Time>2016-04-19T03:27:14+03:00</Time>
+    </Item>
+    <Item>
+      <Source>banana\hit.png</Source>
+      <Name>banana\hit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\banana\hit.xnb</Output>
+      <Time>2016-04-19T04:18:24+03:00</Time>
+    </Item>
+    <Item>
+      <Source>banana\launched.png</Source>
+      <Name>banana\launched</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\banana\launched.xnb</Output>
+      <Time>2016-04-19T04:16:24+03:00</Time>
+    </Item>
+    <Item>
+      <Source>banana\launchedmask.png</Source>
+      <Name>banana\launchedmask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\banana\launchedmask.xnb</Output>
+      <Time>2016-04-19T04:16:24+03:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundOff\buttonHover.png</Source>
+      <Name>SoundOff\buttonHover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\SoundOff\buttonHover.xnb</Output>
+      <Time>2016-04-19T22:04:16+03:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundOn\notClicked.png</Source>
+      <Name>SoundOn\notClicked</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\SoundOn\notClicked.xnb</Output>
+      <Time>2016-04-19T21:59:56+03:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundOn\buttonHover.png</Source>
+      <Name>SoundOn\buttonHover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\SoundOn\buttonHover.xnb</Output>
+      <Time>2016-04-19T22:00:08+03:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundOn\clicked.png</Source>
+      <Name>SoundOn\clicked</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\SoundOn\clicked.xnb</Output>
+      <Time>2016-04-19T22:00:10+03:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundOff\clicked.png</Source>
+      <Name>SoundOff\clicked</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\SoundOff\clicked.xnb</Output>
+      <Time>2016-04-19T22:04:22+03:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundOff\notClicked.png</Source>
+      <Name>SoundOff\notClicked</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\SoundOff\notClicked.xnb</Output>
+      <Time>2016-04-19T22:04:22+03:00</Time>
+    </Item>
+    <Item>
+      <Source>keyboard.png</Source>
+      <Name>keyboard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\keyboard.xnb</Output>
+      <Time>2016-05-08T05:42:56+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Drake\alert.png</Source>
+      <Name>Drake\alert</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Drake\alert.xnb</Output>
+      <Time>2016-04-20T21:02:30+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Drake\die.png</Source>
+      <Name>Drake\die</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Drake\die.xnb</Output>
+      <Time>2016-04-20T21:18:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Drake\mobSkill.png</Source>
+      <Name>Drake\mobSkill</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Drake\mobSkill.xnb</Output>
+      <Time>2016-04-20T21:02:30+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Drake\mobSkillmask.png</Source>
+      <Name>Drake\mobSkillmask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Drake\mobSkillmask.xnb</Output>
+      <Time>2016-04-20T21:02:30+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Drake\stand.png</Source>
+      <Name>Drake\stand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Drake\stand.xnb</Output>
+      <Time>2016-04-20T21:02:30+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Drake\standmask.png</Source>
+      <Name>Drake\standmask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Drake\standmask.xnb</Output>
+      <Time>2016-04-20T21:02:30+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Drake\walk.png</Source>
+      <Name>Drake\walk</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Drake\walk.xnb</Output>
+      <Time>2016-04-20T21:02:30+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Drake\walkmask.png</Source>
+      <Name>Drake\walkmask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Drake\walkmask.xnb</Output>
+      <Time>2016-04-20T21:02:30+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fireball\launched.png</Source>
+      <Name>Fireball\launched</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Fireball\launched.xnb</Output>
+      <Time>2016-04-20T21:25:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fireball\launchedmask.png</Source>
+      <Name>Fireball\launchedmask</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Fireball\launchedmask.xnb</Output>
+      <Time>2016-04-20T21:25:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fireball\hit.png</Source>
+      <Name>Fireball\hit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Fireball\hit.xnb</Output>
+      <Time>2016-04-20T21:28:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>greenBackGround\front.png</Source>
+      <Name>greenBackGround\front</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\greenBackGround\front.xnb</Output>
+      <Time>2016-04-20T21:53:00+03:00</Time>
+    </Item>
+    <Item>
+      <Source>maps\map1\platform3.png</Source>
+      <Name>maps\map1\platform3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\maps\map1\platform3.xnb</Output>
+      <Time>2016-04-29T09:45:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>maps\map1\platform4.png</Source>
+      <Name>maps\map1\platform4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\maps\map1\platform4.xnb</Output>
+      <Time>2016-04-20T22:38:18+03:00</Time>
+    </Item>
+    <Item>
+      <Source>cityBackGround\middle.png</Source>
+      <Name>cityBackGround\middle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\cityBackGround\middle.xnb</Output>
+      <Time>2016-04-22T16:35:00+03:00</Time>
+    </Item>
+    <Item>
+      <Source>maps\forest\forest_0.png</Source>
+      <Name>maps\forest\forest_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\maps\forest\forest_0.xnb</Output>
+      <Time>2016-04-23T02:54:48+03:00</Time>
+    </Item>
+    <Item>
+      <Source>forestBackGround\front.png</Source>
+      <Name>forestBackGround\front</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\forestBackGround\front.xnb</Output>
+      <Time>2016-04-23T01:37:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>forestBackGround\back.png</Source>
+      <Name>forestBackGround\back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\forestBackGround\back.xnb</Output>
+      <Time>2016-04-23T02:21:26+03:00</Time>
+    </Item>
+    <Item>
+      <Source>maps\forest\forest_1.png</Source>
+      <Name>maps\forest\forest_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\maps\forest\forest_1.xnb</Output>
+      <Time>2016-04-23T02:24:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>maps\lava\lava_0.png</Source>
+      <Name>maps\lava\lava_0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\maps\lava\lava_0.xnb</Output>
+      <Time>2016-04-23T16:55:14+03:00</Time>
+    </Item>
+    <Item>
+      <Source>maps\lava\lava_1.png</Source>
+      <Name>maps\lava\lava_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\maps\lava\lava_1.xnb</Output>
+      <Time>2016-04-23T17:05:10+03:00</Time>
+    </Item>
+    <Item>
+      <Source>maps\lava\lava_2.png</Source>
+      <Name>maps\lava\lava_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\maps\lava\lava_2.xnb</Output>
+      <Time>2016-04-23T17:05:10+03:00</Time>
+    </Item>
+    <Item>
+      <Source>lavaBackGround\middle.png</Source>
+      <Name>lavaBackGround\middle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\lavaBackGround\middle.xnb</Output>
+      <Time>2016-04-23T19:43:14+03:00</Time>
+    </Item>
+    <Item>
+      <Source>lavaBackGround\back.png</Source>
+      <Name>lavaBackGround\back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\lavaBackGround\back.xnb</Output>
+      <Time>2016-04-23T19:33:30+03:00</Time>
+    </Item>
+    <Item>
+      <Source>lavaBackGround\front.png</Source>
+      <Name>lavaBackGround\front</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\lavaBackGround\front.xnb</Output>
+      <Time>2016-04-23T19:50:40+03:00</Time>
+    </Item>
+    <Item>
+      <Source>forestBackGround\middle.png</Source>
+      <Name>forestBackGround\middle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\forestBackGround\middle.xnb</Output>
+      <Time>2016-04-23T20:38:26+03:00</Time>
+    </Item>
+    <Item>
+      <Source>greenBackGround\middle.png</Source>
+      <Name>greenBackGround\middle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\greenBackGround\middle.xnb</Output>
+      <Time>2016-05-01T18:34:26+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Font.spritefont</Source>
+      <Name>Font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\Font.xnb</Output>
+      <Time>2016-04-11T22:07:22+03:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\hit1.wav</Source>
+      <Name>SoundEffects\hit1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\SoundEffects\hit1.xnb</Output>
+      <Time>2016-03-02T16:21:34+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\attack1.wav</Source>
+      <Name>SoundEffects\attack1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\SoundEffects\attack1.xnb</Output>
+      <Time>2016-03-02T16:21:38+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Teleport.wav</Source>
+      <Name>SoundEffects\Teleport</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\SoundEffects\Teleport.xnb</Output>
+      <Time>2016-03-02T16:41:38+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Death.wav</Source>
+      <Name>SoundEffects\Death</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\SoundEffects\Death.xnb</Output>
+      <Time>2016-03-02T21:53:26+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\pageFlip.wav</Source>
+      <Name>SoundEffects\pageFlip</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\SoundEffects\pageFlip.xnb</Output>
+      <Time>2016-04-16T17:47:22+03:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\hit2.wav</Source>
+      <Name>SoundEffects\hit2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\SoundEffects\hit2.xnb</Output>
+      <Time>2016-04-16T18:22:04+03:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\hit3.wav</Source>
+      <Name>SoundEffects\hit3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\SoundEffects\hit3.xnb</Output>
+      <Time>2016-04-16T18:22:58+03:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\attack3.wav</Source>
+      <Name>SoundEffects\attack3</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\SoundEffects\attack3.xnb</Output>
+      <Time>2016-04-16T18:24:58+03:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\attack2.wav</Source>
+      <Name>SoundEffects\attack2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\SoundEffects\attack2.xnb</Output>
+      <Time>2016-04-16T18:29:26+03:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\bananaHit.wav</Source>
+      <Name>SoundEffects\bananaHit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\SoundEffects\bananaHit.xnb</Output>
+      <Time>2016-04-19T04:39:32+03:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\ballLaunch.wav</Source>
+      <Name>SoundEffects\ballLaunch</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\SoundEffects\ballLaunch.xnb</Output>
+      <Time>2016-04-19T04:41:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\ballHit.wav</Source>
+      <Name>SoundEffects\ballHit</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\SoundEffects\ballHit.xnb</Output>
+      <Time>2016-04-19T04:53:26+03:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\Jump.wav</Source>
+      <Name>SoundEffects\Jump</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\SoundEffects\Jump.xnb</Output>
+      <Time>2016-04-19T18:48:28+03:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\PickUp.wav</Source>
+      <Name>SoundEffects\PickUp</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\SoundEffects\PickUp.xnb</Output>
+      <Time>2016-04-19T18:49:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\MonkeyDies.wav</Source>
+      <Name>SoundEffects\MonkeyDies</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\SoundEffects\MonkeyDies.xnb</Output>
+      <Time>2016-04-19T18:53:16+03:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\TeddyDies.wav</Source>
+      <Name>SoundEffects\TeddyDies</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\SoundEffects\TeddyDies.xnb</Output>
+      <Time>2016-04-19T18:53:16+03:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\WormDies.wav</Source>
+      <Name>SoundEffects\WormDies</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\SoundEffects\WormDies.xnb</Output>
+      <Time>2016-04-19T18:53:16+03:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\HeartBeat.wav</Source>
+      <Name>SoundEffects\HeartBeat</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\SoundEffects\HeartBeat.xnb</Output>
+      <Time>2016-04-19T18:54:14+03:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\DrakeAttacks.wav</Source>
+      <Name>SoundEffects\DrakeAttacks</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\SoundEffects\DrakeAttacks.xnb</Output>
+      <Time>2016-04-20T21:43:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\DrakeDies.wav</Source>
+      <Name>SoundEffects\DrakeDies</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\SoundEffects\DrakeDies.xnb</Output>
+      <Time>2016-04-20T21:43:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\FireballHits.wav</Source>
+      <Name>SoundEffects\FireballHits</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\SoundEffects\FireballHits.xnb</Output>
+      <Time>2016-04-20T21:43:12+03:00</Time>
+    </Item>
+    <Item>
+      <Source>SoundEffects\bananaThrow.wav</Source>
+      <Name>SoundEffects\bananaThrow</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\SoundEffects\bananaThrow.xnb</Output>
+      <Time>2016-04-23T20:02:16+03:00</Time>
+    </Item>
+    <Item>
+      <Source>BGM\City_Center.mp3</Source>
+      <Name>BGM\City_Center</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\BGM\City_Center.xnb</Output>
+      <Extra>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\BGM\City_Center.wma</Extra>
+      <Time>2016-04-13T17:50:14+03:00</Time>
+    </Item>
+    <Item>
+      <Source>BGM\TrainingGrounds.mp3</Source>
+      <Name>BGM\TrainingGrounds</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\BGM\TrainingGrounds.xnb</Output>
+      <Extra>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\BGM\TrainingGrounds.wma</Extra>
+      <Time>2016-04-13T18:06:34+03:00</Time>
+    </Item>
+    <Item>
+      <Source>BGM\Menu.mp3</Source>
+      <Name>BGM\Menu</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\BGM\Menu.xnb</Output>
+      <Extra>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\BGM\Menu.wma</Extra>
+      <Time>2016-04-14T23:34:58+03:00</Time>
+    </Item>
+    <Item>
+      <Source>BGM\Forest.mp3</Source>
+      <Name>BGM\Forest</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\BGM\Forest.xnb</Output>
+      <Extra>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\BGM\Forest.wma</Extra>
+      <Time>2016-04-23T03:24:20+03:00</Time>
+    </Item>
+    <Item>
+      <Source>BGM\Dungeon.mp3</Source>
+      <Name>BGM\Dungeon</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\BGM\Dungeon.xnb</Output>
+      <Extra>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\BGM\Dungeon.wma</Extra>
+      <Time>2016-04-23T20:06:32+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{CF3D25B7-9C6B-46A5-AC9C-B7F880898CA5}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFinsContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\OR_FINS\Desktop\סופי1 - Copy\game\OrFins\OrFins\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-03-25T14:11:49.2698705+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

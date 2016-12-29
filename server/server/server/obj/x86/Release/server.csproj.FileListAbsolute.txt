@@ -1,0 +1,247 @@
+C:\Users\OR_FINS\Documents\Visual Studio 2013\Projects\server\server\server\bin\x86\Release\Content\teddy\alert.xnb
+C:\Users\OR_FINS\Documents\Visual Studio 2013\Projects\server\server\server\bin\x86\Release\Content\teddy\die.xnb
+C:\Users\OR_FINS\Documents\Visual Studio 2013\Projects\server\server\server\bin\x86\Release\Content\teddy\jump.xnb
+C:\Users\OR_FINS\Documents\Visual Studio 2013\Projects\server\server\server\bin\x86\Release\Content\teddy\jumpmask.xnb
+C:\Users\OR_FINS\Documents\Visual Studio 2013\Projects\server\server\server\bin\x86\Release\Content\teddy\stand.xnb
+C:\Users\OR_FINS\Documents\Visual Studio 2013\Projects\server\server\server\bin\x86\Release\Content\teddy\standmask.xnb
+C:\Users\OR_FINS\Documents\Visual Studio 2013\Projects\server\server\server\bin\x86\Release\Content\teddy\walk.xnb
+C:\Users\OR_FINS\Documents\Visual Studio 2013\Projects\server\server\server\bin\x86\Release\Content\teddy\walkmask.xnb
+C:\Users\OR_FINS\Documents\Visual Studio 2013\Projects\server\server\server\bin\x86\Release\Content\worm\alert.xnb
+C:\Users\OR_FINS\Documents\Visual Studio 2013\Projects\server\server\server\bin\x86\Release\Content\worm\die.xnb
+C:\Users\OR_FINS\Documents\Visual Studio 2013\Projects\server\server\server\bin\x86\Release\Content\worm\stand.xnb
+C:\Users\OR_FINS\Documents\Visual Studio 2013\Projects\server\server\server\bin\x86\Release\Content\worm\standmask.xnb
+C:\Users\OR_FINS\Documents\Visual Studio 2013\Projects\server\server\server\bin\x86\Release\Content\worm\walk.xnb
+C:\Users\OR_FINS\Documents\Visual Studio 2013\Projects\server\server\server\bin\x86\Release\Content\worm\walkmask.xnb
+C:\Users\OR_FINS\Documents\Visual Studio 2013\Projects\server\server\server\bin\x86\Release\Content\maps\city\city_0.xnb
+C:\Users\OR_FINS\Documents\Visual Studio 2013\Projects\server\server\server\bin\x86\Release\Content\maps\city\city_1.xnb
+C:\Users\OR_FINS\Documents\Visual Studio 2013\Projects\server\server\server\bin\x86\Release\server.exe
+C:\Users\OR_FINS\Documents\Visual Studio 2013\Projects\server\server\server\bin\x86\Release\server.pdb
+C:\Users\OR_FINS\Documents\Visual Studio 2013\Projects\server\server\server\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\OR_FINS\Documents\Visual Studio 2013\Projects\server\server\server\obj\x86\Release\server.exe
+C:\Users\OR_FINS\Documents\Visual Studio 2013\Projects\server\server\server\obj\x86\Release\server.pdb
+C:\Users\OR_FINS\Documents\Visual Studio 2013\Projects\server\server\server\bin\x86\Release\Content\maps\map1\platform1.xnb
+C:\Users\OR_FINS\Documents\Visual Studio 2013\Projects\server\server\server\bin\x86\Release\Content\maps\map1\platform2.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\OR_FINS\Desktop\server\server\server\obj\x86\Release\server.exe
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\teddy\alert.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\teddy\die.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\teddy\jump.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\teddy\jumpmask.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\teddy\stand.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\teddy\standmask.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\teddy\walk.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\teddy\walkmask.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\worm\alert.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\worm\die.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\worm\stand.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\worm\standmask.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\worm\walk.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\worm\walkmask.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\maps\city\city_0.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\maps\city\city_1.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\maps\map1\platform1.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\maps\map1\platform2.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\server.exe
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\server.pdb
+C:\Users\OR_FINS\Desktop\server\server\server\obj\x86\Release\server.pdb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\pickup\money.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\monkey\alert.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\monkey\die.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\monkey\jump.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\monkey\jumpmask.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\monkey\mobSkill.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\monkey\mobSkillmask.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\monkey\stand.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\monkey\standmask.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\monkey\walk.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\monkey\walkmask.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\banana\hit.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\banana\launched.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\banana\launchedmask.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\Drake\alert.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\Drake\die.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\Drake\mobSkill.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\Drake\mobSkillmask.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\Drake\stand.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\Drake\standmask.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\Drake\walk.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\Drake\walkmask.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\Fireball\hit.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\Fireball\launched.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\Fireball\launchedmask.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\maps\forest\forest_0.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\maps\forest\forest_1.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\maps\lava\lava_0.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\maps\lava\lava_1.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\maps\lava\lava_2.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\maps\map1\platform3.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\bin\x86\Release\Content\maps\map1\platform4.xnb
+C:\Users\OR_FINS\Desktop\server\server\server\obj\x86\Release\server.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\server.exe
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\teddy\alert.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\teddy\die.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\teddy\jump.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\teddy\jumpmask.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\teddy\stand.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\teddy\standmask.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\teddy\walk.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\teddy\walkmask.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\worm\alert.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\worm\die.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\worm\stand.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\worm\standmask.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\worm\walk.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\worm\walkmask.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\pickup\money.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\monkey\alert.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\monkey\die.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\monkey\jump.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\monkey\jumpmask.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\monkey\mobSkill.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\monkey\mobSkillmask.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\monkey\stand.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\monkey\standmask.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\monkey\walk.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\monkey\walkmask.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\Banana\hit.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\Banana\launched.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\Banana\launchedmask.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\Drake\alert.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\Drake\die.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\Drake\mobSkill.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\Drake\mobSkillmask.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\Drake\stand.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\Drake\standmask.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\Drake\walk.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\Drake\walkmask.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\Fireball\hit.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\Fireball\launched.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\Fireball\launchedmask.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\maps\city\city_0.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\maps\city\city_1.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\maps\forest\forest_0.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\maps\forest\forest_1.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\maps\lava\lava_0.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\maps\lava\lava_1.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\maps\lava\lava_2.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\maps\map1\platform1.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\maps\map1\platform2.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\maps\map1\platform3.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\Content\maps\map1\platform4.xnb
+C:\Users\Lenovo1\Desktop\server\server\server\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Lenovo1\Desktop\server\server\server\obj\x86\Release\server.exe
+C:\Users\Lenovo1\Desktop\server\server\server\obj\x86\Release\server.pdb
+C:\Users\Lenovo1\Desktop\server\server\server\bin\x86\Release\server.pdb
+C:\Users\Lenovo1\Desktop\server\server\server\obj\x86\Release\server.csprojResolveAssemblyReference.cache
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\teddy\alert.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\teddy\die.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\teddy\jump.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\teddy\jumpmask.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\teddy\stand.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\teddy\standmask.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\teddy\walk.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\teddy\walkmask.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\worm\alert.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\worm\die.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\worm\stand.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\worm\standmask.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\worm\walk.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\worm\walkmask.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\pickup\money.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\monkey\alert.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\monkey\die.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\monkey\jump.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\monkey\jumpmask.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\monkey\mobSkill.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\monkey\mobSkillmask.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\monkey\stand.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\monkey\standmask.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\monkey\walk.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\monkey\walkmask.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\Banana\hit.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\Banana\launched.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\Banana\launchedmask.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\Drake\alert.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\Drake\die.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\Drake\mobSkill.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\Drake\mobSkillmask.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\Drake\stand.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\Drake\standmask.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\Drake\walk.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\Drake\walkmask.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\Fireball\hit.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\Fireball\launched.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\Fireball\launchedmask.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\maps\city\city_0.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\maps\city\city_1.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\maps\forest\forest_0.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\maps\forest\forest_1.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\maps\lava\lava_0.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\maps\lava\lava_1.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\maps\lava\lava_2.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\maps\map1\platform1.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\maps\map1\platform2.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\maps\map1\platform3.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\Content\maps\map1\platform4.xnb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\server.exe
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\bin\x86\Release\server.pdb
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\obj\x86\Release\server.csprojResolveAssemblyReference.cache
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\obj\x86\Release\server.exe
+C:\Users\OR_FINS\Desktop\סופי\server\server\server\obj\x86\Release\server.pdb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\obj\x86\Release\server.exe
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\obj\x86\Release\server.pdb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\teddy\alert.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\teddy\die.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\teddy\jump.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\teddy\jumpmask.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\teddy\stand.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\teddy\standmask.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\teddy\walk.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\teddy\walkmask.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\worm\alert.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\worm\die.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\worm\stand.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\worm\standmask.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\worm\walk.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\worm\walkmask.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\pickup\money.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\monkey\alert.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\monkey\die.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\monkey\jump.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\monkey\jumpmask.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\monkey\mobSkill.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\monkey\mobSkillmask.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\monkey\stand.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\monkey\standmask.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\monkey\walk.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\monkey\walkmask.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\Banana\hit.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\Banana\launched.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\Banana\launchedmask.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\Drake\alert.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\Drake\die.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\Drake\mobSkill.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\Drake\mobSkillmask.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\Drake\stand.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\Drake\standmask.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\Drake\walk.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\Drake\walkmask.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\Fireball\hit.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\Fireball\launched.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\Fireball\launchedmask.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\maps\city\city_0.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\maps\city\city_1.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\maps\forest\forest_0.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\maps\forest\forest_1.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\maps\lava\lava_0.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\maps\lava\lava_1.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\maps\lava\lava_2.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\maps\map1\platform1.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\maps\map1\platform2.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\maps\map1\platform3.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\Content\maps\map1\platform4.xnb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\server.exe
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\bin\x86\Release\server.pdb
+C:\Users\OR_FINS\Desktop\סופי1 - Copy\server\server\server\obj\x86\Release\server.csprojResolveAssemblyReference.cache

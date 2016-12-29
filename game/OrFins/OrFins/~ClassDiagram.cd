@@ -1,0 +1,433 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="OrFins.AES_Encryption" Collapsed="true">
+    <Position X="27.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAQAAAEAAQgAAAASgAAAAAAAQEAAAA=</HashCode>
+      <FileName>AES_Encryption.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrFins.Animation" Collapsed="true">
+    <Position X="12.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAEAIAAAAKABAAAASIAAAAAIEAAAEAAQEAAABAAA=</HashCode>
+      <FileName>Animation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrFins.BackGroundObject" Collapsed="true">
+    <Position X="13.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAEAICAACAAAAAIAAAAAA=</HashCode>
+      <FileName>BackGroundObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrFins.Bag" Collapsed="true">
+    <Position X="9.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQACAAEAQAAAAAAAAAAAAAAAAIAABBAAAAAAAQAEAA=</HashCode>
+      <FileName>Bag.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrFins.Bar" Collapsed="true">
+    <Position X="25.25" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAQAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Bar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrFins.BaseKeys" Collapsed="true">
+    <Position X="6.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAACIAAAAAAACAQAAAAAAAAIAAgAAAIAABAAAAAAA=</HashCode>
+      <FileName>BaseKeys.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrFins.Button" Collapsed="true">
+    <Position X="19.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQUAEAAAAAAAAgAAAAAAAAAQAIAAgAEAAAAAkAAAgA=</HashCode>
+      <FileName>Button.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrFins.Camera" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="29.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAIBAAAAAAAACAEQAAAAAgAAA=</HashCode>
+      <FileName>Camera.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OrFins.Circle" Collapsed="true">
+    <Position X="31.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACADAAAEAAAAAIAAAAAIAAgAAIAAAAAAAAAA=</HashCode>
+      <FileName>Circle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrFins.Clothing" Collapsed="true">
+    <Position X="16" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAAAAAQAAIAAAEAAAAAAAAAAgAAAEQAAAAAABAAY=</HashCode>
+      <FileName>Clothing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrFins.ClothingData" Collapsed="true">
+    <Position X="33" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAECEAAAAAIJAAAAAAABABAAAAQAAAEQAAEAAAAAAc=</HashCode>
+      <FileName>ClothingData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrFins.ClothingDictionary" Collapsed="true">
+    <Position X="34.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABQAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ClothingDictionary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrFins.DialogBox" Collapsed="true">
+    <Position X="7" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYACACAAAAAAAAAIAAAAAABAAIAAAAAIAAAAIAAAAQ=</HashCode>
+      <FileName>DialogBox.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrFins.Equipment" Collapsed="true">
+    <Position X="4.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EEAAAAAEAAgAAAAAACAAAAAAAAIAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>Equipment.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrFins.EquipmentType" Collapsed="true">
+    <Position X="27.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAEAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>EquipmentType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrFins.ExtensionMethods" Collapsed="true">
+    <Position X="29.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAABAAEAAACAAAAAAEAAAAAQAAA=</HashCode>
+      <FileName>ExtensionMethods.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrFins.GameMain" Collapsed="true">
+    <Position X="31.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQQEEACAAAAgwAAAAACAAACAAAAAAgAAAAgAAwAAAQ=</HashCode>
+      <FileName>GameMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrFins.GameManager" Collapsed="true">
+    <Position X="1.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAAEkAhgBIAmAABAgBEBAAAAAAAAABAAAAAABgAAY=</HashCode>
+      <FileName>GameManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrFins.HUD" Collapsed="true">
+    <Position X="22" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAYACIIAAgAAAEAAQQQgAQABECsAEAARgABCAcASAEQ=</HashCode>
+      <FileName>HUD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrFins.ImageProcessor" Collapsed="true">
+    <Position X="33" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEYAAAAAAAYABAAAAAAAAAAAAAAQgIAAAAAAAAAAAA=</HashCode>
+      <FileName>ImageProcessor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrFins.Level" Collapsed="true">
+    <Position X="20.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAUAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Level.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrFins.LivingObject" Collapsed="true">
+    <Position X="12.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iASEElAAgEIgQCQIBQJQEKkBihKIAQKATTBCFAACKwo=</HashCode>
+      <FileName>LivingObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrFins.Map" Collapsed="true">
+    <Position X="34.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABQACgBCRAACAgIAogiKIEAAAAAEIAIIABAEAKhQgAA=</HashCode>
+      <FileName>Map.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrFins.Menu" Collapsed="true">
+    <Position X="2.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAQAAAABAAAAAAAAQAAAAAABAAIAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrFins.MenuManager" Collapsed="true">
+    <Position X="27.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAEAAgAAAEgAQABAAAAAAAAAAEAAQQAAAAAAAAAA=</HashCode>
+      <FileName>MenuManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrFins.Mob" Collapsed="true">
+    <Position X="11.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQEAAAAAwAQABAQAAAAAAAAEAIAQAAAAAAAAAAAEAA=</HashCode>
+      <FileName>Mob.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrFins.MobKeys" Collapsed="true">
+    <Position X="5.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ADQCEDIAAAAAEQCAQAgClAAAAIEKgACAIAABAACJgEA=</HashCode>
+      <FileName>MobKeys.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrFins.MultiplayerManager" Collapsed="true">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAEAAAAIBiAAAAAACBAQAAEAAAAAAAAAAIAAAAQ=</HashCode>
+      <FileName>MultiplayerManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrFins.NPC" Collapsed="true">
+    <Position X="9.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAACAQAAAAAAAAAAQAAAAAAAgAAAAAAAAAQAAA=</HashCode>
+      <FileName>NPC.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrFins.OnlineClient" Collapsed="true">
+    <Position X="29.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAACAQAAAAAEAABLAAAAAAAAAACQAABACQAAA=</HashCode>
+      <FileName>OnlineClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrFins.PickupItem" Collapsed="true">
+    <Position X="11.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAYAAAAAAAAAAAAAJAAQAAABARAAEEEAA=</HashCode>
+      <FileName>PickupItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrFins.Platform" Collapsed="true">
+    <Position X="23" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAABAAAAAAAQAQAAAAAAEBQAAAARAAIAAAgAAA=</HashCode>
+      <FileName>Platform.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrFins.Player" Collapsed="true">
+    <Position X="13.75" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQASAAgAgIAACNJBAA1AARBACMMAAAAAAiADAAAEoA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrFins.Portal" Collapsed="true">
+    <Position X="19.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Portal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrFins.Program" Collapsed="true">
+    <Position X="31.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrFins.Rope" Collapsed="true">
+    <Position X="18.25" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAIAAAAAAAAEAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rope.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrFins.Service" Collapsed="true">
+    <Position X="33" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAQEAAAAAAAAAAAAABAQAAAQAQAAAAAA=</HashCode>
+      <FileName>Service.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrFins.Shop" Collapsed="true">
+    <Position X="7" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AYQABAAkEAAgIAAAQEAAAgAAAAIAgAADAQCADgIEEAA=</HashCode>
+      <FileName>Shop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrFins.ShopType" Collapsed="true">
+    <Position X="34.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAABAIAAIBAAAAAAABABAAAAAAABEAAAQAAAABAA=</HashCode>
+      <FileName>ShopType.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrFins.SingleplayerManager" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQEAAAAAAiAAAAAAABAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>SingleplayerManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrFins.Skill" Collapsed="true">
+    <Position X="17" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IQQAgAAAQCAAKAAAIBAAGAAAACBACAAABAAAAAAAAAI=</HashCode>
+      <FileName>Skill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrFins.SoundDictionary" Collapsed="true">
+    <Position X="27.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAABARJAIAAABEAQACAIIAAAgAAAAAAAAAA=</HashCode>
+      <FileName>SoundDictionary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrFins.Sprite" Collapsed="true">
+    <Position X="23.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAAEAABAAAAAAAARCAIEAGAAIAgiOAAAQBBAAAAAA=</HashCode>
+      <FileName>Sprite.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.35" />
+  </Class>
+  <Class Name="OrFins.SpritesDictionary" Collapsed="true">
+    <Position X="29.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>SpritesDictionary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrFins.TextSprite" Collapsed="true">
+    <Position X="17" Y="8" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ABYAAAAAAAAAAAAAAAAAAAAAAAIAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>TextSprite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrFins.UserKeys" Collapsed="true">
+    <Position X="7.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQCADIAAAACAACAYAAAABAAAIAIgACAIAABAgAAgAA=</HashCode>
+      <FileName>UserKeys.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="OrFins.Sensor" Collapsed="true">
+    <Position X="31.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAIAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LivingObject.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="OrFins.MapRecord" Collapsed="true">
+    <Position X="27.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAg=</HashCode>
+      <FileName>Map.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="OrFins.PathRecord" Collapsed="true">
+    <Position X="29.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAgAAgAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>MobKeys.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="OrFins.ICamera" Collapsed="true">
+    <Position X="27.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAIBAAAAAAAAAAAQAAAAAgAAA=</HashCode>
+      <FileName>ICamera.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="OrFins.IFocus" Collapsed="true">
+    <Position X="29.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAAEAAAAAAAAAAAACAIAAGAAIAAgCAAAQAAAAAAAA=</HashCode>
+      <FileName>IFocus.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="OrFins.MovementCode" Collapsed="true">
+    <Position X="34.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAAAgAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>BackGroundObject.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="OrFins.ClothingType" Collapsed="true">
+    <Position X="29.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAABAAAAAAAAgACAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Clothing.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="OrFins.GameState" Collapsed="true">
+    <Position X="33" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgIAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>GameMain.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="OrFins.PortalPositions" Collapsed="true">
+    <Position X="27.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAABAgAAAAAAAAAAA=</HashCode>
+      <FileName>Portal.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="OrFins.BGM" Collapsed="true">
+    <Position X="27.75" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAgAAAAAAAAAAAAAAIAAAAACBAAAAAAAA=</HashCode>
+      <FileName>SoundDictionary.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="OrFins.SoundEffects" Collapsed="true">
+    <Position X="29.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAACAACgAIEAABAAACAABAAwQECEAgAAAADSAABAA=</HashCode>
+      <FileName>SoundDictionary.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="OrFins.States" Collapsed="true">
+    <Position X="31.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgCIAsAAjAAEhAAAAABAAwAEAEFABAAAiAgggCFEAE=</HashCode>
+      <FileName>SpritesDictionary.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="OrFins.Folders" Collapsed="true">
+    <Position X="31.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EACAFEgAAgIAIBQANNAEABABIIAEAgAxgIHUABAEAJA=</HashCode>
+      <FileName>SpritesDictionary.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="OrFins.ButtonUpdater" Collapsed="true">
+    <Position X="29.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DialogBox.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="OrFins.ButtonDrawer" Collapsed="true">
+    <Position X="27.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DialogBox.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
